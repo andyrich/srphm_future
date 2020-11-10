@@ -1,0 +1,1110 @@
+119	-8888	408	0	NOPRINT "ILPFCB,"	"HDRY,"	NPLPF		
+1	1	1	1	1	1	1	1	LAYTYP(NLAY)
+0	0	0	0	0	0	0	0	LAYAVG(NLAY)
+1	1	1	1	1	1	1	1	CHANI(NLAY)
+1	1	1	1	1	1	1	1	LAYVKA(NLAY)
+0	0	0	0	0	0	0	0	LAYWET(NLAY)
+Kh1_win	HK	10	1	;				
+1	kh1	ZONE01	1	;				
+Kh1_sr	HK	10	1	;				
+1	kh1	ZONE01	2	;				
+Kh1_cotS	HK	10	1	;				
+1	kh1	ZONE01	3	;				
+Kh1_cotN	HK	10	1	;				
+1	kh1	ZONE01	203	;				
+Kh1_rk	HK	10	1	;				
+1	kh1	ZONE01	4	;				
+Kh1_bv	HK	10	1	;				
+1	kh1	ZONE01	5	;				
+Kh1_wg	HK	10	1	;				
+1	kh1	ZONE01	6	;				
+Kh1_frpl	HK	10	1	;				
+1	kh1	ZONE01	51	;				
+Kh1_macM	HK	10	1	;				
+1	kh1	ZONE01	101	;				
+Kh1_bvM	HK	10	1	;				
+1	kh1	ZONE01	102	;				
+Kh1_SonM	HK	10	1	;				
+1	kh1	ZONE01	103	;				
+Kh1_wgM	HK	10	1	;				
+1	kh1	ZONE01	104	;				
+Kh1_frM	HK	10	1	;				
+1	kh1	ZONE01	151	;				
+Kh1_sfrM	HK	10	1	;				
+1	kh1	ZONE01	65	;				
+Kh2_win	HK	10	1	;				
+2	kh2	ZONE02	7	;				
+Kh2_sr	HK	10	1	;				
+2	kh2	ZONE02	8	;				
+Kh2_cotS	HK	10	1	;				
+2	kh2	ZONE02	9	;				
+Kh2_cotN	HK	10	1	;				
+2	kh2	ZONE02	209	;				
+Kh2_rk	HK	10	1	;				
+2	kh2	ZONE02	10	;				
+Kh2_bv	HK	10	1	;				
+2	kh2	ZONE02	11	;				
+Kh2_wg	HK	10	1	;				
+2	kh2	ZONE02	12	;				
+Kh2_frpl	HK	10	1	;				
+2	kh2	ZONE02	52	;				
+Kh2_macM	HK	10	1	;				
+2	kh2	ZONE02	107	;				
+Kh2_bvM	HK	10	1	;				
+2	kh2	ZONE02	108	;				
+Kh2_SonM	HK	10	1	;				
+2	kh2	ZONE02	109	;				
+Kh2_wgM	HK	10	1	;				
+2	kh2	ZONE02	110	;				
+Kh2_frM	HK	10	1	;				
+2	kh2	ZONE02	152	;				
+Kh3_win	HK	10	1	;				
+3	kh3	ZONE03	13	;				
+Kh3_sr	HK	10	1	;				
+3	kh3	ZONE03	14	;				
+Kh3_cotS	HK	10	1	;				
+3	kh3	ZONE03	15	;				
+Kh3_cotN	HK	10	1	;				
+3	kh3	ZONE03	215	;				
+Kh3_rk	HK	10	1	;				
+3	kh3	ZONE03	16	;				
+Kh3_bv	HK	10	1	;				
+3	kh3	ZONE03	17	;				
+Kh3_wg	HK	10	1	;				
+3	kh3	ZONE03	18	;				
+Kh3_frpl	HK	10	1	;				
+3	kh3	ZONE03	53	;				
+Kh3_macM	HK	10	1	;				
+3	kh3	ZONE03	19	;				
+Kh3_bvM	HK	10	1	;				
+3	kh3	ZONE03	20	;				
+Kh3_SonM	HK	10	1	;				
+3	kh3	ZONE03	21	;				
+Kh3_wgM	HK	10	1	;				
+3	kh3	ZONE03	22	;				
+Kh3_frM	HK	10	1	;				
+3	kh3	ZONE03	59	;				
+Kh4_win	HK	10	1	;				
+4	kh4	ZONE04	23	;				
+Kh4_sr	HK	10	1	;				
+4	kh4	ZONE04	24	;				
+Kh4_cotS	HK	10	1	;				
+4	kh4	ZONE04	25	;				
+Kh4_cotN	HK	10	1	;				
+4	kh4	ZONE04	225	;				
+Kh4_rk	HK	10	1	;				
+4	kh4	ZONE04	26	;				
+Kh4_bv	HK	10	1	;				
+4	kh4	ZONE04	27	;				
+Kh4_wg	HK	10	1	;				
+4	kh4	ZONE04	28	;				
+Kh4_frpl	HK	10	1	;				
+4	kh4	ZONE04	54	;				
+Kh4_macM	HK	10	1	;				
+4	kh4	ZONE04	29	;				
+Kh4_bvM	HK	10	1	;				
+4	kh4	ZONE04	30	;				
+Kh4_SonM	HK	10	1	;				
+4	kh4	ZONE04	31	;				
+Kh4_wgM	HK	10	1	;				
+4	kh4	ZONE04	32	;				
+Kh4_frM	HK	10	1	;				
+4	kh4	ZONE04	60	;				
+Kh5_win	HK	10	1	;				
+5	kh5	ZONE05	33	;				
+Kh5_sr	HK	10	1	;				
+5	kh5	ZONE05	34	;				
+Kh5_cotS	HK	10	1	;				
+5	kh5	ZONE05	35	;				
+Kh5_cotN	HK	10	1					
+5	kh5	ZONE05	235					
+Kh5_rk	HK	10	1	;				
+5	kh5	ZONE05	36	;				
+Kh5_bv	HK	10	1	;				
+5	kh5	ZONE05	37	;				
+Kh5_wg	HK	10	1	;				
+5	kh5	ZONE05	38	;				
+Kh5_frpl	HK	10	1	;				
+5	kh5	ZONE05	55	;				
+Kh5_macM	HK	10	1	;				
+5	kh5	ZONE05	39	;				
+Kh5_bvM	HK	10	1	;				
+5	kh5	ZONE05	40	;				
+Kh5_SonM	HK	10	1	;				
+5	kh5	ZONE05	41	;				
+Kh5_wgM	HK	10	1	;				
+5	kh5	ZONE05	42	;				
+Kh5_frM	HK	10	1	;				
+5	kh5	ZONE05	61	;				
+Kh6_win	HK	10	1	;				
+6	kh6	ZONE06	66	;				
+Kh6_sr	HK	10	1	;				
+6	kh6	ZONE06	67	;				
+Kh6_cotS	HK	10	1	;				
+6	kh6	ZONE06	68	;				
+Kh6_cotN	HK	10	1	;				
+6	kh6	ZONE06	245	;				
+Kh6_rk	HK	10	1	;				
+6	kh6	ZONE06	44	;				
+Kh6_bv	HK	10	1	;				
+6	kh6	ZONE06	69	;				
+Kh6_wg	HK	10	1	;				
+6	kh6	ZONE06	70	;				
+Kh6_msM	HK	10	1	;				
+6	kh6	ZONE06	45	;				
+Kh6_bvM	HK	10	1	;				
+6	kh6	ZONE06	640	;				
+Kh6_wgM	HK	10	1	;				
+6	kh6	ZONE06	46	;				
+Kh6_frPl	HK	10	1	;				
+6	kh6	ZONE06	56	;				
+Kh6_frM	HK	10	1	;				
+6	kh6	ZONE06	62	;				
+Kh7_win	HK	10	1	;				
+7	kh7	ZONE07	701	;				
+Kh7_sr	HK	10	1	;				
+7	kh7	ZONE07	702	;				
+Kh7_cotS	HK	10	1	;				
+7	kh7	ZONE07	703	;				
+Kh7_cotN	HK	10	1	;				
+7	kh7	ZONE07	709	;				
+Kh7_rk	HK	10	1	;				
+7	kh7	ZONE07	704	;				
+Kh7_bv	HK	10	1	;				
+7	kh7	ZONE07	705	;				
+Kh7_wg	HK	10	1	;				
+7	kh7	ZONE07	706	;				
+Kh7_msM	HK	10	1	;				
+7	kh7	ZONE07	707	;				
+Kh7_bvM	HK	10	1	;				
+7	kh7	ZONE07	740	;				
+Kh7_wgM	HK	10	1	;				
+7	kh7	ZONE07	708	;				
+Kh7_frPl	HK	10	1	;				
+7	kh7	ZONE07	710	;				
+Kh7_frM	HK	10	1	;				
+7	kh7	ZONE07	711	;				
+Kh8_win	HK	10	1	;				
+8	kh8	ZONE08	801	;				
+Kh8_sr	HK	10	1	;				
+8	kh8	ZONE08	802	;				
+Kh8_cotS	HK	10	1	;				
+8	kh8	ZONE08	803	;				
+Kh8_cotN	HK	10	1	;				
+8	kh8	ZONE08	809	;				
+Kh8_rk	HK	10	1	;				
+8	kh8	ZONE08	804	;				
+Kh8_bv	HK	10	1	;				
+8	kh8	ZONE08	805	;				
+Kh8_wg	HK	10	1	;				
+8	kh8	ZONE08	806	;				
+Kh8_msM	HK	10	1	;				
+8	kh8	ZONE08	807	;				
+Kh8_bvM	HK	10	1	;				
+8	kh8	ZONE08	840	;				
+Kh8_wgM	HK	10	1	;				
+8	kh8	ZONE08	808	;				
+Kh8_frPl	HK	10	1	;				
+8	kh8	ZONE08	810	;				
+Kh8_frM	HK	10	1	;				
+8	kh8	ZONE08	811	;				
+Kv1_win	VANI	10	1	;				
+1	kv1	ZONE01	1	;				
+Kv1_sr	VANI	10	1	;				
+1	kv1	ZONE01	2	;				
+Kv1_cotS	VANI	10	1	;				
+1	kv1	ZONE01	3	;				
+Kv1_cotN	VANI	10	1	;				
+1	kv1	ZONE01	203	;				
+Kv1_rk	VANI	10	1	;				
+1	kv1	ZONE01	4	;				
+Kv1_bv	VANI	10	1	;				
+1	kv1	ZONE01	5	;				
+Kv1_wg	VANI	10	1	;				
+1	kv1	ZONE01	6	;				
+Kv1_frpl	VANI	10	1	;				
+1	kv1	ZONE01	51	;				
+Kv1_macM	VANI	10	1	;				
+1	kv1	ZONE01	101	;				
+Kv1_bvM	VANI	10	1	;				
+1	kv1	ZONE01	102	;				
+Kv1_SonM	VANI	10	1	;				
+1	kv1	ZONE01	103	;				
+Kv1_wgM	VANI	10	1	;				
+1	kv1	ZONE01	104	;				
+Kv1_frM	VANI	10	1	;				
+1	kv1	ZONE01	151	;				
+Kv1_sfrM	VANI	10	1	;				
+1	kv1	ZONE01	65	;				
+Kv2_win	VANI	10	1	;				
+2	kv2	ZONE02	7	;				
+Kv2_sr	VANI	10	1	;				
+2	kv2	ZONE02	8	;				
+Kv2_cotS	VANI	10	1	;				
+2	kv2	ZONE02	9	;				
+Kv2_cotN	VANI	10	1	;				
+2	kv2	ZONE02	209	;				
+Kv2_rk	VANI	10	1	;				
+2	kv2	ZONE02	10	;				
+Kv2_bv	VANI	10	1	;				
+2	kv2	ZONE02	11	;				
+Kv2_wg	VANI	10	1	;				
+2	kv2	ZONE02	12	;				
+Kv2_frpl	VANI	10	1	;				
+2	kv2	ZONE02	52	;				
+Kv2_macM	VANI	10	1	;				
+2	kv1	ZONE02	107	;				
+Kv2_bvM	VANI	10	1	;				
+2	kv1	ZONE02	108	;				
+Kv2_SonM	VANI	10	1	;				
+2	kv1	ZONE02	109	;				
+Kv2_wgM	VANI	10	1	;				
+2	kv1	ZONE02	110	;				
+Kv2_frM	VANI	10	1	;				
+2	kv1	ZONE02	152	;				
+Kv3_win	VANI	10	1	;				
+3	kv3	ZONE03	13	;				
+Kv3_sr	VANI	10	1	;				
+3	kv3	ZONE03	14	;				
+Kv3_cotS	VANI	10	1	;				
+3	kv3	ZONE03	15	;				
+Kv3_cotN	VANI	10	1	;				
+3	kv3	ZONE03	215	;				
+Kv3_rk	VANI	10	1	;				
+3	kv3	ZONE03	16	;				
+Kv3_bv	VANI	10	1	;				
+3	kv3	ZONE03	17	;				
+Kv3_wg	VANI	10	1	;				
+3	kv3	ZONE03	18	;				
+Kv3_frpl	VANI	10	1	;				
+3	kv3	ZONE03	53	;				
+Kv3_macM	VANI	10	1	;				
+3	kv3	ZONE03	19	;				
+Kv3_bvM	VANI	10	1	;				
+3	kv3	ZONE03	20	;				
+Kv3_SonM	VANI	10	1	;				
+3	kv3	ZONE03	21	;				
+Kv3_wgM	VANI	10	1	;				
+3	kv3	ZONE03	22	;				
+Kv3_frM	VANI	10	1	;				
+3	kv3	ZONE03	59	;				
+Kv4_win	VANI	10	1	;				
+4	kv4	ZONE04	23	;				
+Kv4_sr	VANI	10	1	;				
+4	kv4	ZONE04	24	;				
+Kv4_cotS	VANI	10	1	;				
+4	kv4	ZONE04	25	;				
+Kv4_cotN	VANI	10	1	;				
+4	kv4	ZONE04	225	;				
+Kv4_rk	VANI	10	1	;				
+4	kv4	ZONE04	26	;				
+Kv4_bv	VANI	10	1	;				
+4	kv4	ZONE04	27	;				
+Kv4_wg	VANI	10	1	;				
+4	kv4	ZONE04	28	;				
+Kv4_frpl	VANI	10	1	;				
+4	kv4	ZONE04	54	;				
+Kv4_macM	VANI	10	1	;				
+4	kv4	ZONE04	29	;				
+Kv4_bvM	VANI	10	1	;				
+4	kv4	ZONE04	30	;				
+Kv4_SonM	VANI	10	1	;				
+4	kv4	ZONE04	31	;				
+Kv4_wgM	VANI	10	1	;				
+4	kv4	ZONE04	32	;				
+Kv4_frM	VANI	10	1	;				
+4	kv4	ZONE04	60	;				
+Kv5_win	VANI	10	1	;				
+5	kv5	ZONE05	33	;				
+Kv5_sr	VANI	10	1	;				
+5	kv5	ZONE05	34	;				
+Kv5_cotS	VANI	10	1	;				
+5	kv5	ZONE05	35	;				
+Kv5_cotN	VANI	10	1	;				
+5	kv5	ZONE05	235	;				
+Kv5_rk	VANI	10	1	;				
+5	kv5	ZONE05	36	;				
+Kv5_bv	VANI	10	1	;				
+5	kv5	ZONE05	37	;				
+Kv5_wg	VANI	10	1	;				
+5	kv5	ZONE05	38	;				
+Kv5_frpl	VANI	10	1	;				
+5	kv5	ZONE05	55	;				
+Kv5_macM	VANI	10	1	;				
+5	kv5	ZONE05	39	;				
+Kv5_bvM	VANI	10	1	;				
+5	kv5	ZONE05	40	;				
+Kv5_SonM	VANI	10	1	;				
+5	kv5	ZONE05	41	;				
+Kv5_wgM	VANI	10	1	;				
+5	kv5	ZONE05	42	;				
+Kv5_frM	VANI	10	1	;				
+5	kv5	ZONE05	61	;				
+Kv6_win	VANI	10	1	;				
+6	kv6	ZONE06	66	;				
+Kv6_sr	VANI	10	1	;				
+6	kv6	ZONE06	67	;				
+Kv6_cotS	VANI	10	1	;				
+6	kv6	ZONE06	68	;				
+Kv6_cotN	VANI	10	1	;				
+6	kv6	ZONE06	245	;				
+Kv6_rk	VANI	10	1	;				
+6	kv6	ZONE06	44	;				
+Kv6_bv	VANI	10	1	;				
+6	kv6	ZONE06	69	;				
+Kv6_wg	VANI	10	1	;				
+6	kv6	ZONE06	70	;				
+Kv6_msM	VANI	10	1	;				
+6	kv6	ZONE06	45	;				
+Kv6_bvM	VANI	10	1	;				
+6	kv6	ZONE06	640	;				
+Kv6_wgM	VANI	10	1	;				
+6	kv6	ZONE06	46	;				
+Kv6_frPl	VANI	10	1	;				
+6	kv6	ZONE06	56	;				
+Kv6_frM	VANI	10	1	;				
+6	kv6	ZONE06	62	;				
+Kv7_win	VANI	10	1	;				
+7	kv7	ZONE07	701	;				
+Kv7_sr	VANI	10	1	;				
+7	kv7	ZONE07	702	;				
+Kv7_cotS	VANI	10	1	;				
+7	kv7	ZONE07	703	;				
+Kv7_cotN	VANI	10	1	;				
+7	kv7	ZONE07	709	;				
+Kv7_rk	VANI	10	1	;				
+7	kv7	ZONE07	704	;				
+Kv7_bv	VANI	10	1	;				
+7	kv7	ZONE07	705	;				
+Kv7_wg	VANI	10	1	;				
+7	kv7	ZONE07	706	;				
+Kv7_msM	VANI	10	1	;				
+7	kv7	ZONE07	707	;				
+Kv7_bvM	VANI	10	1	;				
+7	kv7	ZONE07	740	;				
+Kv7_wgM	VANI	10	1	;				
+7	kv7	ZONE07	708	;				
+Kv7_frPl	VANI	10	1	;				
+7	kv7	ZONE07	710	;				
+Kv7_frM	VANI	10	1	;				
+7	kv7	ZONE07	711	;				
+Kv8_win	VANI	10	1	;				
+8	kv8	ZONE08	801	;				
+Kv8_sr	VANI	10	1	;				
+8	kv8	ZONE08	802	;				
+Kv8_cotS	VANI	10	1	;				
+8	kv8	ZONE08	803	;				
+Kv8_cotN	VANI	10	1	;				
+8	kv8	ZONE08	809	;				
+Kv8_rk	VANI	10	1	;				
+8	kv8	ZONE08	804	;				
+Kv8_bv	VANI	10	1	;				
+8	kv8	ZONE08	805	;				
+Kv8_wg	VANI	10	1	;				
+8	kv8	ZONE08	806	;				
+Kv8_msM	VANI	10	1	;				
+8	kv8	ZONE08	807	;				
+Kv8_bvM	VANI	10	1	;				
+8	kv8	ZONE08	840	;				
+Kv8_wgM	VANI	10	1	;				
+8	kv8	ZONE08	808	;				
+Kv8_frPl	VANI	10	1	;				
+8	kv8	ZONE08	810	;				
+Kv8_frM	VANI	10	1	;				
+8	kv8	ZONE08	811	;				
+Sy1_win	SY	10	1	;				
+1	sy1	ZONE01	1	;				
+Sy1_sr	SY	10	1	;				
+1	sy1	ZONE01	2	;				
+Sy1_cotS	SY	10	1	;				
+1	sy1	ZONE01	3	;				
+Sy1_cotN	SY	10	1	;				
+1	sy1	ZONE01	203	;				
+Sy1_rk	SY	10	1	;				
+1	sy1	ZONE01	4	;				
+Sy1_bv	SY	10	1	;				
+1	sy1	ZONE01	5	;				
+Sy1_wg	SY	10	1	;				
+1	sy1	ZONE01	6	;				
+Sy1_frpl	SY	10	1	;				
+1	sy1	ZONE01	51	;				
+Sy1_macM	SY	10	1	;				
+1	sy1	ZONE01	101	;				
+Sy1_bvM	SY	10	1	;				
+1	sy1	ZONE01	102	;				
+Sy1_SonM	SY	10	1	;				
+1	sy1	ZONE01	103	;				
+Sy1_wgM	SY	10	1	;				
+1	sy1	ZONE01	104	;				
+Sy1_frM	SY	10	1	;				
+1	sy1	ZONE01	151	;				
+Sy1_sfrM	SY	10	1	;				
+1	sy1	ZONE01	65	;				
+Sy2_win	SY	10	1	;				
+2	sy2	ZONE02	7	;				
+Sy2_sr	SY	10	1	;				
+2	sy2	ZONE02	8	;				
+Sy2_cotS	SY	10	1	;				
+2	sy2	ZONE02	9	;				
+Sy2_cotN	SY	10	1	;				
+2	sy2	ZONE02	209	;				
+Sy2_rk	SY	10	1	;				
+2	sy2	ZONE02	10	;				
+Sy2_bv	SY	10	1	;				
+2	sy2	ZONE02	11	;				
+Sy2_wg	SY	10	1	;				
+2	sy2	ZONE02	12	;				
+Sy2_frpl	SY	10	1	;				
+2	sy2	ZONE02	52	;				
+Sy2_macM	SY	10	1	;				
+2	sy2	ZONE02	107	;				
+Sy2_bvM	SY	10	1	;				
+2	sy2	ZONE02	108	;				
+Sy2_SonM	SY	10	1	;				
+2	sy2	ZONE02	109	;				
+Sy2_wgM	SY	10	1	;				
+2	sy2	ZONE02	110	;				
+Sy2_frM	SY	10	1	;				
+2	sy2	ZONE02	152	;				
+Sy3_win	SY	10	1	;				
+3	sy3	ZONE03	13	;				
+Sy3_sr	SY	10	1	;				
+3	sy3	ZONE03	14	;				
+Sy3_cotS	SY	10	1	;				
+3	sy3	ZONE03	15	;				
+Sy3_cotN	SY	10	1	;				
+3	sy3	ZONE03	215	;				
+Sy3_rk	SY	10	1	;				
+3	sy3	ZONE03	16	;				
+Sy3_bv	SY	10	1	;				
+3	sy3	ZONE03	17	;				
+Sy3_wg	SY	10	1	;				
+3	sy3	ZONE03	18	;				
+Sy3_frpl	SY	10	1	;				
+3	sy3	ZONE03	53	;				
+Sy3_macM	SY	10	1	;				
+3	sy3	ZONE03	19	;				
+Sy3_bvM	SY	10	1	;				
+3	sy3	ZONE03	20	;				
+Sy3_SonM	SY	10	1	;				
+3	sy3	ZONE03	21	;				
+Sy3_wgM	SY	10	1	;				
+3	sy3	ZONE03	22	;				
+Sy3_frM	SY	10	1	;				
+3	sy3	ZONE03	59	;				
+Sy4_win	SY	10	1	;				
+4	sy4	ZONE04	23	;				
+Sy4_sr	SY	10	1	;				
+4	sy4	ZONE04	24	;				
+Sy4_cotS	SY	10	1	;				
+4	sy4	ZONE04	25	;				
+Sy4_cotN	SY	10	1	;				
+4	sy4	ZONE04	225	;				
+Sy4_rk	SY	10	1	;				
+4	sy4	ZONE04	26	;				
+Sy4_bv	SY	10	1	;				
+4	sy4	ZONE04	27	;				
+Sy4_wg	SY	10	1	;				
+4	sy4	ZONE04	28	;				
+Sy4_frpl	SY	10	1	;				
+4	sy4	ZONE04	54	;				
+Sy4_macM	SY	10	1	;				
+4	sy4	ZONE04	29	;				
+Sy4_bvM	SY	10	1	;				
+4	sy4	ZONE04	30	;				
+Sy4_SonM	SY	10	1	;				
+4	sy4	ZONE04	31	;				
+Sy4_wgM	SY	10	1	;				
+4	sy4	ZONE04	32	;				
+Sy4_frM	SY	10	1	;				
+4	sy4	ZONE04	60	;				
+Sy5_win	SY	10	1	;				
+5	sy5	ZONE05	33	;				
+Sy5_sr	SY	10	1	;				
+5	sy5	ZONE05	34	;				
+Sy5_cotS	SY	10	1	;				
+5	sy5	ZONE05	35	;				
+Sy5_cotN	SY	10	1	;				
+5	sy5	ZONE05	235	;				
+Sy5_rk	SY	10	1	;				
+5	sy5	ZONE05	36	;				
+Sy5_bv	SY	10	1	;				
+5	sy5	ZONE05	37	;				
+Sy5_wg	SY	10	1	;				
+5	sy5	ZONE05	38	;				
+Sy5_frpl	SY	10	1	;				
+5	sy5	ZONE05	55	;				
+Sy5_macM	SY	10	1	;				
+5	sy5	ZONE05	39	;				
+Sy5_bvM	SY	10	1	;				
+5	sy5	ZONE05	40	;				
+Sy5_SonM	SY	10	1	;				
+5	sy5	ZONE05	41	;				
+Sy5_wgM	SY	10	1	;				
+5	sy5	ZONE05	42	;				
+Sy5_frM	SY	10	1	;				
+5	sy5	ZONE05	61	;				
+Sy6_win	SY	10	1	;				
+6	sy6	ZONE06	66	;				
+Sy6_sr	SY	10	1	;				
+6	sy6	ZONE06	67	;				
+Sy6_cotS	SY	10	1	;				
+6	sy6	ZONE06	68	;				
+Sy6_cotN	SY	10	1	;				
+6	sy6	ZONE06	245	;				
+Sy6_rk	SY	10	1	;				
+6	sy6	ZONE06	44	;				
+Sy6_bv	SY	10	1	;				
+6	sy6	ZONE06	69	;				
+Sy6_wg	SY	10	1	;				
+6	sy6	ZONE06	70	;				
+Sy6_msM	SY	10	1	;				
+6	sy6	ZONE06	45	;				
+Sy6_bvM	SY	10	1	;				
+6	sy6	ZONE06	640	;				
+Sy6_wgM	SY	10	1	;				
+6	sy6	ZONE06	46	;				
+Sy6_frPl	SY	10	1	;				
+6	sy6	ZONE06	56	;				
+Sy6_frM	SY	10	1	;				
+6	sy6	ZONE06	62	;				
+Sy7_win	SY	10	1	;				
+7	sy7	ZONE07	701	;				
+Sy7_sr	SY	10	1	;				
+7	sy7	ZONE07	702	;				
+Sy7_cotS	SY	10	1	;				
+7	sy7	ZONE07	703	;				
+Sy7_cotN	SY	10	1	;				
+7	sy7	ZONE07	709	;				
+Sy7_rk	SY	10	1	;				
+7	sy7	ZONE07	704	;				
+Sy7_bv	SY	10	1	;				
+7	sy7	ZONE07	705	;				
+Sy7_wg	SY	10	1	;				
+7	sy7	ZONE07	706	;				
+Sy7_msM	SY	10	1	;				
+7	sy7	ZONE07	707	;				
+Sy7_bvM	SY	10	1	;				
+7	sy7	ZONE07	740	;				
+Sy7_wgM	SY	10	1	;				
+7	sy7	ZONE07	708	;				
+Sy7_frPl	SY	10	1	;				
+7	sy7	ZONE07	710	;				
+Sy7_frM	SY	10	1	;				
+7	sy7	ZONE07	711	;				
+Sy8_win	SY	10	1	;				
+8	sy8	ZONE08	801	;				
+Sy8_sr	SY	10	1	;				
+8	sy8	ZONE08	802	;				
+Sy8_cotS	SY	10	1	;				
+8	sy8	ZONE08	803	;				
+Sy8_cotN	SY	10	1	;				
+8	sy8	ZONE08	809	;				
+Sy8_rk	SY	10	1	;				
+8	sy8	ZONE08	804	;				
+Sy8_bv	SY	10	1	;				
+8	sy8	ZONE08	805	;				
+Sy8_wg	SY	10	1	;				
+8	sy8	ZONE08	806	;				
+Sy8_msM	SY	10	1	;				
+8	sy8	ZONE08	807	;				
+Sy8_bvM	SY	10	1	;				
+8	sy8	ZONE08	840	;				
+Sy8_wgM	SY	10	1	;				
+8	sy8	ZONE08	808	;				
+Sy8_frPl	SY	10	1	;				
+8	sy8	ZONE08	810	;				
+Sy8_frM	SY	10	1	;				
+8	sy8	ZONE08	811	;				
+Ss1_win	SS	10	1	;				
+1	ss1	ZONE01	1	;				
+Ss1_sr	SS	10	1	;				
+1	ss1	ZONE01	2	;				
+Ss1_cotS	SS	10	1	;				
+1	ss1	ZONE01	3	;				
+Ss1_cotN	SS	10	1	;				
+1	ss1	ZONE01	203	;				
+Ss1_rk	SS	10	1	;				
+1	ss1	ZONE01	4	;				
+Ss1_bv	SS	10	1	;				
+1	ss1	ZONE01	5	;				
+Ss1_wg	SS	10	1	;				
+1	ss1	ZONE01	6	;				
+Ss1_frpl	SS	10	1	;				
+1	ss1	ZONE01	51	;				
+Ss1_macM	SS	10	1	;				
+1	ss1	ZONE01	101	;				
+Ss1_bvM	SS	10	1	;				
+1	ss1	ZONE01	102	;				
+Ss1_SonM	SS	10	1	;				
+1	ss1	ZONE01	103	;				
+Ss1_wgM	SS	10	1	;				
+1	ss1	ZONE01	104	;				
+Ss1_frM	SS	10	1	;				
+1	ss1	ZONE01	151	;				
+Ss1_sfrM	SS	10	1	;				
+1	ss1	ZONE01	65	;				
+Ss2_win	SS	10	1	;				
+2	ss2	ZONE02	7	;				
+Ss2_sr	SS	10	1	;				
+2	ss2	ZONE02	8	;				
+Ss2_cotS	SS	10	1	;				
+2	ss2	ZONE02	9	;				
+Ss2_cotN	SS	10	1	;				
+2	ss2	ZONE02	209	;				
+Ss2_rk	SS	10	1	;				
+2	ss2	ZONE02	10	;				
+Ss2_bv	SS	10	1	;				
+2	ss2	ZONE02	11	;				
+Ss2_wg	SS	10	1	;				
+2	ss2	ZONE02	12	;				
+Ss2_frpl	SS	10	1	;				
+2	ss2	ZONE02	52	;				
+Ss2_macM	SS	10	1	;				
+2	ss2	ZONE02	107	;				
+Ss2_bvM	SS	10	1	;				
+2	ss2	ZONE02	108	;				
+Ss2_SonM	SS	10	1	;				
+2	ss2	ZONE02	109	;				
+Ss2_wgM	SS	10	1	;				
+2	ss2	ZONE02	110	;				
+Ss2_frM	SS	10	1	;				
+2	ss2	ZONE02	152	;				
+Ss3_win	SS	10	1	;				
+3	ss3	ZONE03	13	;				
+Ss3_sr	SS	10	1	;				
+3	ss3	ZONE03	14	;				
+Ss3_cotS	SS	10	1	;				
+3	ss3	ZONE03	15	;				
+Ss3_cotN	SS	10	1	;				
+3	ss3	ZONE03	215	;				
+Ss3_rk	SS	10	1	;				
+3	ss3	ZONE03	16	;				
+Ss3_bv	SS	10	1	;				
+3	ss3	ZONE03	17	;				
+Ss3_wg	SS	10	1	;				
+3	ss3	ZONE03	18	;				
+Ss3_frpl	SS	10	1	;				
+3	ss3	ZONE03	53	;				
+Ss3_macM	SS	10	1	;				
+3	ss3	ZONE03	19	;				
+Ss3_bvM	SS	10	1	;				
+3	ss3	ZONE03	20	;				
+Ss3_SonM	SS	10	1	;				
+3	ss3	ZONE03	21	;				
+Ss3_wgM	SS	10	1	;				
+3	ss3	ZONE03	22	;				
+Ss3_frM	SS	10	1	;				
+3	ss3	ZONE03	59	;				
+Ss4_win	SS	10	1	;				
+4	ss4	ZONE04	23	;				
+Ss4_sr	SS	10	1	;				
+4	ss4	ZONE04	24	;				
+Ss4_cotS	SS	10	1	;				
+4	ss4	ZONE04	25	;				
+Ss4_cotN	SS	10	1	;				
+4	ss4	ZONE04	225	;				
+Ss4_rk	SS	10	1	;				
+4	ss4	ZONE04	26	;				
+Ss4_bv	SS	10	1	;				
+4	ss4	ZONE04	27	;				
+Ss4_wg	SS	10	1	;				
+4	ss4	ZONE04	28	;				
+Ss4_frpl	SS	10	1	;				
+4	ss4	ZONE04	54	;				
+Ss4_macM	SS	10	1	;				
+4	ss4	ZONE04	29	;				
+Ss4_bvM	SS	10	1	;				
+4	ss4	ZONE04	30	;				
+Ss4_SonM	SS	10	1	;				
+4	ss4	ZONE04	31	;				
+Ss4_wgM	SS	10	1	;				
+4	ss4	ZONE04	32	;				
+Ss4_frM	SS	10	1	;				
+4	ss4	ZONE04	60	;				
+Ss5_win	SS	10	1	;				
+5	ss5	ZONE05	33	;				
+Ss5_sr	SS	10	1	;				
+5	ss5	ZONE05	34	;				
+Ss5_cotS	SS	10	1	;				
+5	ss5	ZONE05	35	;				
+Ss5_cotN	SS	10	1	;				
+5	ss5	ZONE05	235	;				
+Ss5_rk	SS	10	1	;				
+5	ss5	ZONE05	36	;				
+Ss5_bv	SS	10	1	;				
+5	ss5	ZONE05	37	;				
+Ss5_wg	SS	10	1	;				
+5	ss5	ZONE05	38	;				
+Ss5_frpl	SS	10	1	;				
+5	ss5	ZONE05	55	;				
+Ss5_macM	SS	10	1	;				
+5	ss5	ZONE05	39	;				
+Ss5_bvM	SS	10	1	;				
+5	ss5	ZONE05	40	;				
+Ss5_SonM	SS	10	1	;				
+5	ss5	ZONE05	41	;				
+Ss5_wgM	SS	10	1	;				
+5	ss5	ZONE05	42	;				
+Ss5_frM	SS	10	1	;				
+5	ss5	ZONE05	61	;				
+Ss6_win	SS	10	1	;				
+6	ss6	ZONE06	66	;				
+Ss6_sr	SS	10	1	;				
+6	ss6	ZONE06	67	;				
+Ss6_cotS	SS	10	1	;				
+6	ss6	ZONE06	68	;				
+Ss6_cotN	SS	10	1	;				
+6	ss6	ZONE06	245	;				
+Ss6_rk	SS	10	1	;				
+6	ss6	ZONE06	44	;				
+Ss6_bv	SS	10	1	;				
+6	ss6	ZONE06	69	;				
+Ss6_wg	SS	10	1	;				
+6	ss6	ZONE06	70	;				
+Ss6_msM	SS	10	1	;				
+6	ss6	ZONE06	45	;				
+Ss6_bvM	SS	10	1	;				
+6	ss6	ZONE06	640	;				
+Ss6_wgM	SS	10	1	;				
+6	ss6	ZONE06	46	;				
+Ss6_frPl	SS	10	1	;				
+6	ss6	ZONE06	56	;				
+Ss6_frM	SS	10	1	;				
+6	ss6	ZONE06	62	;				
+Ss7_win	SS	10	1	;				
+7	ss7	ZONE07	701	;				
+Ss7_sr	SS	10	1	;				
+7	ss7	ZONE07	702	;				
+Ss7_cotS	SS	10	1	;				
+7	ss7	ZONE07	703	;				
+Ss7_cotN	SS	10	1	;				
+7	ss7	ZONE07	709	;				
+Ss7_rk	SS	10	1	;				
+7	ss7	ZONE07	704	;				
+Ss7_bv	SS	10	1	;				
+7	ss7	ZONE07	705	;				
+Ss7_wg	SS	10	1	;				
+7	ss7	ZONE07	706	;				
+Ss7_msM	SS	10	1	;				
+7	ss7	ZONE07	707	;				
+Ss7_bvM	SS	10	1	;				
+7	ss7	ZONE07	740	;				
+Ss7_wgM	SS	10	1	;				
+7	ss7	ZONE07	708	;				
+Ss7_frPl	SS	10	1	;				
+7	ss7	ZONE07	710	;				
+Ss7_frM	SS	10	1	;				
+7	ss7	ZONE07	711	;				
+Ss8_win	SS	10	1	;				
+8	ss8	ZONE08	801	;				
+Ss8_sr	SS	10	1	;				
+8	ss8	ZONE08	802	;				
+Ss8_cotS	SS	10	1	;				
+8	ss8	ZONE08	803	;				
+Ss8_cotN	SS	10	1	;				
+8	ss8	ZONE08	809	;				
+Ss8_rk	SS	10	1	;				
+8	ss8	ZONE08	804	;				
+Ss8_bv	SS	10	1	;				
+8	ss8	ZONE08	805	;				
+Ss8_wg	SS	10	1	;				
+8	ss8	ZONE08	806	;				
+Ss8_msM	SS	10	1	;				
+8	ss8	ZONE08	807	;				
+Ss8_bvM	SS	10	1	;				
+8	ss8	ZONE08	840	;				
+Ss8_wgM	SS	10	1	;				
+8	ss8	ZONE08	808	;				
+Ss8_frPl	SS	10	1	;				
+8	ss8	ZONE08	810	;				
+Ss8_frM	SS	10	1	;				
+8	ss8	ZONE08	811	;				
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								
+12								

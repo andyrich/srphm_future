@@ -1,0 +1,67 @@
+# Data_read_from_e:\Santa_Rosa_Plain\fdmodel\sstrans\srpv04tr\srpv04tr.mul																																																																																																																																																												
+# File_modified_on_04/07/09																																																																																																																																																												
+32 NOPRINT
+kh1
+OPEN/CLOSE    input\hk1.txt	1	(free)   12																																																																																																																																																									
+kh2
+OPEN/CLOSE    input\hk2.txt	1	(free)   12
+kh3
+OPEN/CLOSE    input\hk3.txt	1	(free)   12																																																																																																																																																									
+kh4
+OPEN/CLOSE    input\hk4.txt	1	(free)   12
+kh5
+OPEN/CLOSE    input\hk5.txt	1	(free)   12																																																																																																																																																									
+kh6
+OPEN/CLOSE    input\hk6.txt	1	(free)   12
+kh7
+OPEN/CLOSE    input\hk7.txt	1	(free)   12																																																																																																																																																									
+kh8
+OPEN/CLOSE    input\hk8.txt	1	(free)   12
+kv1
+OPEN/CLOSE    input\vani_Allones.txt	1	(free)   12																																																																																																																																																									
+kv2
+OPEN/CLOSE    input\vani_Allones.txt	1	(free)   12
+kv3
+OPEN/CLOSE    input\vani_Allones.txt	1	(free)   12																																																																																																																																																									
+kv4
+OPEN/CLOSE    input\vani_Allones.txt	1	(free)   12
+kv5
+OPEN/CLOSE    input\vani_Allones.txt	1	(free)   12																																																																																																																																																									
+kv6
+OPEN/CLOSE    input\vani_Allones.txt	1	(free)   12
+kv7
+OPEN/CLOSE    input\vani_Allones.txt	1	(free)   12																																																																																																																																																									
+kv8
+OPEN/CLOSE    input\vani_Allones.txt	1	(free)   12
+sy1
+OPEN/CLOSE    input\sy1.txt	1	(free)   12	
+sy2
+OPEN/CLOSE    input\sy2.txt	1	(free)   12
+sy3
+OPEN/CLOSE    input\sy3.txt	1	(free)   12
+sy4
+OPEN/CLOSE    input\sy4.txt	1	(free)   12
+sy5
+OPEN/CLOSE    input\sy5.txt	1	(free)   12
+sy6
+OPEN/CLOSE    input\sy6.txt	1	(free)   12
+sy7
+OPEN/CLOSE    input\sy7.txt	1	(free)   12
+sy8
+OPEN/CLOSE    input\sy8.txt	1	(free)   12
+ss1
+OPEN/CLOSE    input\ss1.txt	1	(free)   12	
+ss2
+OPEN/CLOSE    input\ss2.txt	1	(free)   12
+ss3
+OPEN/CLOSE    input\ss3.txt	1	(free)   12	
+ss4
+OPEN/CLOSE    input\ss4.txt	1	(free)   12
+ss5
+OPEN/CLOSE    input\ss5.txt	1	(free)   12	
+ss6
+OPEN/CLOSE    input\ss6.txt	1	(free)   12
+ss7
+OPEN/CLOSE    input\ss7.txt	1	(free)   12	
+ss8
+OPEN/CLOSE    input\ss8.txt	1	(free)   12

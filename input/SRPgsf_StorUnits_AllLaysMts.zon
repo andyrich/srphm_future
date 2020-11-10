@@ -1,0 +1,18 @@
+#	original	file	generated	on	7/21/2011	
+8 NOPRINT												
+ZONE01
+OPEN/CLOSE          input\StorUnit1.txt        1         (free)    5
+ZONE02
+OPEN/CLOSE          input\StorUnit2.txt        1         (free)    5
+ZONE03
+OPEN/CLOSE          input\StorUnit3.txt        1         (free)    5
+ZONE04
+OPEN/CLOSE          input\StorUnit4.txt        1         (free)    5
+ZONE05
+OPEN/CLOSE          input\StorUnit5.txt        1         (free)    5
+ZONE06
+OPEN/CLOSE          input\StorUnit6.txt        1         (free)    5
+ZONE07
+OPEN/CLOSE          input\StorUnit7.txt        1         (free)    5
+ZONE08
+OPEN/CLOSE          input\StorUnit8.txt        1         (free)    5

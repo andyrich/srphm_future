@@ -1,0 +1,16 @@
+*.bud
+*.daily
+*.cb2
+*.fhd
+*.lst
+gsflow.csv
+*.out
+*.out2
+SRPW3_56e_GSFL_ani1.out.nhru
+SRPW3_56e_GSFL_ani1.out.nhrucell
+SRPW3_56e_GSFL_ani1.out.nssr
+SRPW3_56e_GSFL_ani1.out.nreach
+/output/*
+*nsub*
+*base_*
+
