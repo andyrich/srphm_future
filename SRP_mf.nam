@@ -1,6 +1,7 @@
 #	Model	26d	(06/21/2012)
 LIST	12	output\srpv09gsf.lst	
-DIS		14	input\SRP_thru2018.dis	
+DIS		14	input\SRP_mf_fut.dis
+#DIS		14	input\SRP_thru2018.dis	
 BAS6	15	input\SRPgsf_noSS.bas	
 #OC		18	input\SRPgsf_bimonthly_noSS.oc
 OC		18	input\SRP_mf.oc #all stress periods
