@@ -17,9 +17,11 @@ SFR		28	input\srp_v0.sfr
 #HOB		51	input\SRPgsf_101211.hob	
 HOB     51  input\SRPHM_Oct1974_Dec2018_112wells_20200619.hob
 #WEL		34	input\SRP_mf.wel
+WEL     34  input\srp_rur_MNI_fut_well.txt
 #GAGE	60	input\SRPgsf_29gages_072413.gag
 GAGE 	60 	input\gage_GSP_and_v0.gag
-FHB 	40	input\SRP_mf.fhb
+#FHB 	40	input\SRP_mf.fhb
+FHB 	40	input\srp_fut_v2.fhb
 
 AG 61 future_transient.ag
 DATA    506    output\well.dat    
@@ -33,6 +35,7 @@ DATA    510    output\wellirlist.dat
 DATA	138	output\SRPgsf.fhd	
 DATA(BINARY)	119	output\SRPgsf.bud	
 DATA             120  output\srp_sfr_out.cb2
+DATA     69    output\Reduced_wells.out
 #	UZF	out	
 Data	134	output\SRPgsf_allUz.out	
 Data(BINARY)	131	output\srp_IUZFCB1.cb1	
