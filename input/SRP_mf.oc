@@ -377,6 +377,11 @@ period 4 step 29
 period 4 step 30 
   save budget
 
+period 4 step 31 
+  save budget
+  save head
+  print budget
+
 period 5 step 1 
   save budget
 
@@ -464,6 +469,9 @@ period 5 step 28
   print budget
 
 period 6 step 1 
+  save budget
+
+period 6 step 2 
   save budget
 
 period 6 step 3 
@@ -648,6 +656,9 @@ period 7 step 30
   print budget
 
 period 8 step 1 
+  save budget
+
+period 8 step 2 
   save budget
 
 period 8 step 3 
@@ -926,6 +937,9 @@ period 10 step 31
   save head
   print budget
 
+period 11 step 1 
+  save budget
+
 period 11 step 2 
   save budget
 
@@ -1109,6 +1123,9 @@ period 12 step 30
   save budget
   save head
   print budget
+
+period 13 step 1 
+  save budget
 
 period 13 step 2 
   save budget
@@ -1294,6 +1311,9 @@ period 14 step 30
   save head
   print budget
 
+period 15 step 1 
+  save budget
+
 period 15 step 2 
   save budget
 
@@ -1476,6 +1496,11 @@ period 16 step 29
 period 16 step 30 
   save budget
 
+period 16 step 31 
+  save budget
+  save head
+  print budget
+
 period 17 step 1 
   save budget
 
@@ -1559,11 +1584,11 @@ period 17 step 27
 
 period 17 step 28 
   save budget
-
-period 17 step 29 
-  save budget
   save head
   print budget
+
+period 18 step 1 
+  save budget
 
 period 18 step 2 
   save budget
@@ -1749,6 +1774,9 @@ period 19 step 30
   save head
   print budget
 
+period 20 step 1 
+  save budget
+
 period 20 step 2 
   save budget
 
@@ -1932,6 +1960,9 @@ period 21 step 30
   save budget
   save head
   print budget
+
+period 22 step 1 
+  save budget
 
 period 22 step 2 
   save budget
@@ -2302,6 +2333,11 @@ period 25 step 29
 period 25 step 30 
   save budget
 
+period 25 step 31 
+  save budget
+  save head
+  print budget
+
 period 26 step 1 
   save budget
 
@@ -2483,6 +2519,11 @@ period 27 step 29
 
 period 27 step 30 
   save budget
+
+period 27 step 31 
+  save budget
+  save head
+  print budget
 
 period 28 step 1 
   save budget
@@ -2852,6 +2893,9 @@ period 31 step 30
   save head
   print budget
 
+period 32 step 1 
+  save budget
+
 period 32 step 2 
   save budget
 
@@ -3035,6 +3079,9 @@ period 33 step 30
   save budget
   save head
   print budget
+
+period 34 step 1 
+  save budget
 
 period 34 step 2 
   save budget
@@ -3687,6 +3734,11 @@ period 40 step 29
 period 40 step 30 
   save budget
 
+period 40 step 31 
+  save budget
+  save head
+  print budget
+
 period 41 step 1 
   save budget
 
@@ -3769,6 +3821,9 @@ period 41 step 27
   save budget
 
 period 41 step 28 
+  save budget
+
+period 41 step 29 
   save budget
   save head
   print budget
@@ -4241,6 +4296,9 @@ period 46 step 31
   save budget
   save head
   print budget
+
+period 47 step 1 
+  save budget
 
 period 47 step 2 
   save budget
@@ -4798,6 +4856,11 @@ period 52 step 29
 period 52 step 30 
   save budget
 
+period 52 step 31 
+  save budget
+  save head
+  print budget
+
 period 53 step 1 
   save budget
 
@@ -4885,6 +4948,9 @@ period 53 step 28
   print budget
 
 period 54 step 1 
+  save budget
+
+period 54 step 2 
   save budget
 
 period 54 step 3 
@@ -5069,6 +5135,9 @@ period 55 step 30
   print budget
 
 period 56 step 1 
+  save budget
+
+period 56 step 2 
   save budget
 
 period 56 step 3 
@@ -5347,6 +5416,9 @@ period 58 step 31
   save head
   print budget
 
+period 59 step 1 
+  save budget
+
 period 59 step 2 
   save budget
 
@@ -5530,6 +5602,9 @@ period 60 step 30
   save budget
   save head
   print budget
+
+period 61 step 1 
+  save budget
 
 period 61 step 2 
   save budget
@@ -5715,6 +5790,9 @@ period 62 step 30
   save head
   print budget
 
+period 63 step 1 
+  save budget
+
 period 63 step 2 
   save budget
 
@@ -5897,6 +5975,11 @@ period 64 step 29
 period 64 step 30 
   save budget
 
+period 64 step 31 
+  save budget
+  save head
+  print budget
+
 period 65 step 1 
   save budget
 
@@ -5980,11 +6063,11 @@ period 65 step 27
 
 period 65 step 28 
   save budget
-
-period 65 step 29 
-  save budget
   save head
   print budget
+
+period 66 step 1 
+  save budget
 
 period 66 step 2 
   save budget
@@ -6170,6 +6253,9 @@ period 67 step 30
   save head
   print budget
 
+period 68 step 1 
+  save budget
+
 period 68 step 2 
   save budget
 
@@ -6353,6 +6439,9 @@ period 69 step 30
   save budget
   save head
   print budget
+
+period 70 step 1 
+  save budget
 
 period 70 step 2 
   save budget
@@ -6723,6 +6812,11 @@ period 73 step 29
 period 73 step 30 
   save budget
 
+period 73 step 31 
+  save budget
+  save head
+  print budget
+
 period 74 step 1 
   save budget
 
@@ -6904,6 +6998,11 @@ period 75 step 29
 
 period 75 step 30 
   save budget
+
+period 75 step 31 
+  save budget
+  save head
+  print budget
 
 period 76 step 1 
   save budget
@@ -7273,6 +7372,9 @@ period 79 step 30
   save head
   print budget
 
+period 80 step 1 
+  save budget
+
 period 80 step 2 
   save budget
 
@@ -7456,6 +7558,9 @@ period 81 step 30
   save budget
   save head
   print budget
+
+period 82 step 1 
+  save budget
 
 period 82 step 2 
   save budget
@@ -8108,6 +8213,11 @@ period 88 step 29
 period 88 step 30 
   save budget
 
+period 88 step 31 
+  save budget
+  save head
+  print budget
+
 period 89 step 1 
   save budget
 
@@ -8190,6 +8300,9 @@ period 89 step 27
   save budget
 
 period 89 step 28 
+  save budget
+
+period 89 step 29 
   save budget
   save head
   print budget
@@ -8662,6 +8775,9 @@ period 94 step 31
   save budget
   save head
   print budget
+
+period 95 step 1 
+  save budget
 
 period 95 step 2 
   save budget
@@ -9219,6 +9335,11 @@ period 100 step 29
 period 100 step 30 
   save budget
 
+period 100 step 31 
+  save budget
+  save head
+  print budget
+
 period 101 step 1 
   save budget
 
@@ -9306,6 +9427,9 @@ period 101 step 28
   print budget
 
 period 102 step 1 
+  save budget
+
+period 102 step 2 
   save budget
 
 period 102 step 3 
@@ -9771,6 +9895,9 @@ period 106 step 31
   save head
   print budget
 
+period 107 step 1 
+  save budget
+
 period 107 step 2 
   save budget
 
@@ -9954,6 +10081,9 @@ period 108 step 30
   save budget
   save head
   print budget
+
+period 109 step 1 
+  save budget
 
 period 109 step 2 
   save budget
@@ -10139,6 +10269,9 @@ period 110 step 30
   save head
   print budget
 
+period 111 step 1 
+  save budget
+
 period 111 step 2 
   save budget
 
@@ -10321,6 +10454,11 @@ period 112 step 29
 period 112 step 30 
   save budget
 
+period 112 step 31 
+  save budget
+  save head
+  print budget
+
 period 113 step 1 
   save budget
 
@@ -10404,11 +10542,11 @@ period 113 step 27
 
 period 113 step 28 
   save budget
-
-period 113 step 29 
-  save budget
   save head
   print budget
+
+period 114 step 1 
+  save budget
 
 period 114 step 2 
   save budget
@@ -10594,6 +10732,9 @@ period 115 step 30
   save head
   print budget
 
+period 116 step 1 
+  save budget
+
 period 116 step 2 
   save budget
 
@@ -10778,6 +10919,9 @@ period 117 step 30
   save head
   print budget
 
+period 118 step 1 
+  save budget
+
 period 118 step 2 
   save budget
 
@@ -10959,6 +11103,11 @@ period 119 step 29
 
 period 119 step 30 
   save budget
+
+period 119 step 31 
+  save budget
+  save head
+  print budget
 
 period 120 step 1 
   save budget
@@ -11142,6 +11291,11 @@ period 121 step 29
 period 121 step 30 
   save budget
 
+period 121 step 31 
+  save budget
+  save head
+  print budget
+
 period 122 step 1 
   save budget
 
@@ -11323,6 +11477,11 @@ period 123 step 29
 
 period 123 step 30 
   save budget
+
+period 123 step 31 
+  save budget
+  save head
+  print budget
 
 period 124 step 1 
   save budget
@@ -11692,6 +11851,9 @@ period 127 step 30
   save head
   print budget
 
+period 128 step 1 
+  save budget
+
 period 128 step 2 
   save budget
 
@@ -11875,6 +12037,9 @@ period 129 step 30
   save budget
   save head
   print budget
+
+period 130 step 1 
+  save budget
 
 period 130 step 2 
   save budget
@@ -12432,6 +12597,11 @@ period 135 step 29
 period 135 step 30 
   save budget
 
+period 135 step 31 
+  save budget
+  save head
+  print budget
+
 period 136 step 1 
   save budget
 
@@ -12609,6 +12779,9 @@ period 137 step 27
   save budget
 
 period 137 step 28 
+  save budget
+
+period 137 step 29 
   save budget
   save head
   print budget
@@ -13081,6 +13254,9 @@ period 142 step 31
   save budget
   save head
   print budget
+
+period 143 step 1 
+  save budget
 
 period 143 step 2 
   save budget
@@ -13638,6 +13814,11 @@ period 148 step 29
 period 148 step 30 
   save budget
 
+period 148 step 31 
+  save budget
+  save head
+  print budget
+
 period 149 step 1 
   save budget
 
@@ -13725,6 +13906,9 @@ period 149 step 28
   print budget
 
 period 150 step 1 
+  save budget
+
+period 150 step 2 
   save budget
 
 period 150 step 3 
@@ -14190,6 +14374,9 @@ period 154 step 31
   save head
   print budget
 
+period 155 step 1 
+  save budget
+
 period 155 step 2 
   save budget
 
@@ -14373,6 +14560,9 @@ period 156 step 30
   save budget
   save head
   print budget
+
+period 157 step 1 
+  save budget
 
 period 157 step 2 
   save budget
@@ -14558,6 +14748,9 @@ period 158 step 30
   save head
   print budget
 
+period 159 step 1 
+  save budget
+
 period 159 step 2 
   save budget
 
@@ -14740,6 +14933,11 @@ period 160 step 29
 period 160 step 30 
   save budget
 
+period 160 step 31 
+  save budget
+  save head
+  print budget
+
 period 161 step 1 
   save budget
 
@@ -14823,11 +15021,11 @@ period 161 step 27
 
 period 161 step 28 
   save budget
-
-period 161 step 29 
-  save budget
   save head
   print budget
+
+period 162 step 1 
+  save budget
 
 period 162 step 2 
   save budget
@@ -15013,6 +15211,9 @@ period 163 step 30
   save head
   print budget
 
+period 164 step 1 
+  save budget
+
 period 164 step 2 
   save budget
 
@@ -15197,6 +15398,9 @@ period 165 step 30
   save head
   print budget
 
+period 166 step 1 
+  save budget
+
 period 166 step 2 
   save budget
 
@@ -15378,6 +15582,11 @@ period 167 step 29
 
 period 167 step 30 
   save budget
+
+period 167 step 31 
+  save budget
+  save head
+  print budget
 
 period 168 step 1 
   save budget
@@ -15561,6 +15770,11 @@ period 169 step 29
 period 169 step 30 
   save budget
 
+period 169 step 31 
+  save budget
+  save head
+  print budget
+
 period 170 step 1 
   save budget
 
@@ -15742,6 +15956,11 @@ period 171 step 29
 
 period 171 step 30 
   save budget
+
+period 171 step 31 
+  save budget
+  save head
+  print budget
 
 period 172 step 1 
   save budget
@@ -16111,6 +16330,9 @@ period 175 step 30
   save head
   print budget
 
+period 176 step 1 
+  save budget
+
 period 176 step 2 
   save budget
 
@@ -16294,6 +16516,9 @@ period 177 step 30
   save budget
   save head
   print budget
+
+period 178 step 1 
+  save budget
 
 period 178 step 2 
   save budget
@@ -16851,6 +17076,11 @@ period 183 step 29
 period 183 step 30 
   save budget
 
+period 183 step 31 
+  save budget
+  save head
+  print budget
+
 period 184 step 1 
   save budget
 
@@ -17028,6 +17258,9 @@ period 185 step 27
   save budget
 
 period 185 step 28 
+  save budget
+
+period 185 step 29 
   save budget
   save head
   print budget
@@ -17500,6 +17733,9 @@ period 190 step 31
   save budget
   save head
   print budget
+
+period 191 step 1 
+  save budget
 
 period 191 step 2 
   save budget
@@ -18057,6 +18293,11 @@ period 196 step 29
 period 196 step 30 
   save budget
 
+period 196 step 31 
+  save budget
+  save head
+  print budget
+
 period 197 step 1 
   save budget
 
@@ -18144,6 +18385,9 @@ period 197 step 28
   print budget
 
 period 198 step 1 
+  save budget
+
+period 198 step 2 
   save budget
 
 period 198 step 3 
@@ -18609,6 +18853,9 @@ period 202 step 31
   save head
   print budget
 
+period 203 step 1 
+  save budget
+
 period 203 step 2 
   save budget
 
@@ -18792,6 +19039,9 @@ period 204 step 30
   save budget
   save head
   print budget
+
+period 205 step 1 
+  save budget
 
 period 205 step 2 
   save budget
@@ -19162,6 +19412,11 @@ period 208 step 29
 period 208 step 30 
   save budget
 
+period 208 step 31 
+  save budget
+  save head
+  print budget
+
 period 209 step 1 
   save budget
 
@@ -19245,11 +19500,11 @@ period 209 step 27
 
 period 209 step 28 
   save budget
-
-period 209 step 29 
-  save budget
   save head
   print budget
+
+period 210 step 1 
+  save budget
 
 period 210 step 2 
   save budget
@@ -19435,6 +19690,9 @@ period 211 step 30
   save head
   print budget
 
+period 212 step 1 
+  save budget
+
 period 212 step 2 
   save budget
 
@@ -19619,6 +19877,9 @@ period 213 step 30
   save head
   print budget
 
+period 214 step 1 
+  save budget
+
 period 214 step 2 
   save budget
 
@@ -19800,6 +20061,11 @@ period 215 step 29
 
 period 215 step 30 
   save budget
+
+period 215 step 31 
+  save budget
+  save head
+  print budget
 
 period 216 step 1 
   save budget
@@ -19983,6 +20249,11 @@ period 217 step 29
 period 217 step 30 
   save budget
 
+period 217 step 31 
+  save budget
+  save head
+  print budget
+
 period 218 step 1 
   save budget
 
@@ -20165,6 +20436,11 @@ period 219 step 29
 period 219 step 30 
   save budget
 
+period 219 step 31 
+  save budget
+  save head
+  print budget
+
 period 220 step 1 
   save budget
 
@@ -20345,6 +20621,9 @@ period 221 step 28
   save budget
   save head
   print budget
+
+period 222 step 1 
+  save budget
 
 period 222 step 2 
   save budget
@@ -20530,6 +20809,9 @@ period 223 step 30
   save head
   print budget
 
+period 224 step 1 
+  save budget
+
 period 224 step 2 
   save budget
 
@@ -20713,6 +20995,9 @@ period 225 step 30
   save budget
   save head
   print budget
+
+period 226 step 1 
+  save budget
 
 period 226 step 2 
   save budget
@@ -21270,6 +21555,11 @@ period 231 step 29
 period 231 step 30 
   save budget
 
+period 231 step 31 
+  save budget
+  save head
+  print budget
+
 period 232 step 1 
   save budget
 
@@ -21447,6 +21737,9 @@ period 233 step 27
   save budget
 
 period 233 step 28 
+  save budget
+
+period 233 step 29 
   save budget
   save head
   print budget
@@ -21824,6 +22117,9 @@ period 237 step 30
   save budget
   save head
   print budget
+
+period 238 step 1 
+  save budget
 
 period 238 step 2 
   save budget
@@ -22476,6 +22772,11 @@ period 244 step 29
 period 244 step 30 
   save budget
 
+period 244 step 31 
+  save budget
+  save head
+  print budget
+
 period 245 step 1 
   save budget
 
@@ -22563,6 +22864,9 @@ period 245 step 28
   print budget
 
 period 246 step 1 
+  save budget
+
+period 246 step 2 
   save budget
 
 period 246 step 3 
@@ -23028,6 +23332,9 @@ period 250 step 31
   save head
   print budget
 
+period 251 step 1 
+  save budget
+
 period 251 step 2 
   save budget
 
@@ -23211,6 +23518,9 @@ period 252 step 30
   save budget
   save head
   print budget
+
+period 253 step 1 
+  save budget
 
 period 253 step 2 
   save budget
@@ -23581,6 +23891,11 @@ period 256 step 29
 period 256 step 30 
   save budget
 
+period 256 step 31 
+  save budget
+  save head
+  print budget
+
 period 257 step 1 
   save budget
 
@@ -23664,11 +23979,11 @@ period 257 step 27
 
 period 257 step 28 
   save budget
-
-period 257 step 29 
-  save budget
   save head
   print budget
+
+period 258 step 1 
+  save budget
 
 period 258 step 2 
   save budget
@@ -23854,6 +24169,9 @@ period 259 step 30
   save head
   print budget
 
+period 260 step 1 
+  save budget
+
 period 260 step 2 
   save budget
 
@@ -24038,6 +24356,9 @@ period 261 step 30
   save head
   print budget
 
+period 262 step 1 
+  save budget
+
 period 262 step 2 
   save budget
 
@@ -24219,6 +24540,11 @@ period 263 step 29
 
 period 263 step 30 
   save budget
+
+period 263 step 31 
+  save budget
+  save head
+  print budget
 
 period 264 step 1 
   save budget
@@ -24402,6 +24728,11 @@ period 265 step 29
 period 265 step 30 
   save budget
 
+period 265 step 31 
+  save budget
+  save head
+  print budget
+
 period 266 step 1 
   save budget
 
@@ -24584,6 +24915,11 @@ period 267 step 29
 period 267 step 30 
   save budget
 
+period 267 step 31 
+  save budget
+  save head
+  print budget
+
 period 268 step 1 
   save budget
 
@@ -24764,6 +25100,9 @@ period 269 step 28
   save budget
   save head
   print budget
+
+period 270 step 1 
+  save budget
 
 period 270 step 2 
   save budget
@@ -24949,6 +25288,9 @@ period 271 step 30
   save head
   print budget
 
+period 272 step 1 
+  save budget
+
 period 272 step 2 
   save budget
 
@@ -25132,6 +25474,9 @@ period 273 step 30
   save budget
   save head
   print budget
+
+period 274 step 1 
+  save budget
 
 period 274 step 2 
   save budget
@@ -25689,6 +26034,11 @@ period 279 step 29
 period 279 step 30 
   save budget
 
+period 279 step 31 
+  save budget
+  save head
+  print budget
+
 period 280 step 1 
   save budget
 
@@ -25866,6 +26216,9 @@ period 281 step 27
   save budget
 
 period 281 step 28 
+  save budget
+
+period 281 step 29 
   save budget
   save head
   print budget
@@ -26243,6 +26596,9 @@ period 285 step 30
   save budget
   save head
   print budget
+
+period 286 step 1 
+  save budget
 
 period 286 step 2 
   save budget
@@ -26895,6 +27251,11 @@ period 292 step 29
 period 292 step 30 
   save budget
 
+period 292 step 31 
+  save budget
+  save head
+  print budget
+
 period 293 step 1 
   save budget
 
@@ -26982,6 +27343,9 @@ period 293 step 28
   print budget
 
 period 294 step 1 
+  save budget
+
+period 294 step 2 
   save budget
 
 period 294 step 3 
@@ -27447,6 +27811,9 @@ period 298 step 31
   save head
   print budget
 
+period 299 step 1 
+  save budget
+
 period 299 step 2 
   save budget
 
@@ -27630,6 +27997,9 @@ period 300 step 30
   save budget
   save head
   print budget
+
+period 301 step 1 
+  save budget
 
 period 301 step 2 
   save budget
@@ -28000,6 +28370,11 @@ period 304 step 29
 period 304 step 30 
   save budget
 
+period 304 step 31 
+  save budget
+  save head
+  print budget
+
 period 305 step 1 
   save budget
 
@@ -28083,11 +28458,11 @@ period 305 step 27
 
 period 305 step 28 
   save budget
-
-period 305 step 29 
-  save budget
   save head
   print budget
+
+period 306 step 1 
+  save budget
 
 period 306 step 2 
   save budget
@@ -28272,6 +28647,9 @@ period 307 step 30
   save budget
   save head
   print budget
+
+period 308 step 1 
+  save budget
 
 period 308 step 2 
   save budget
@@ -28642,6 +29020,11 @@ period 311 step 29
 period 311 step 30 
   save budget
 
+period 311 step 31 
+  save budget
+  save head
+  print budget
+
 period 312 step 1 
   save budget
 
@@ -28823,6 +29206,11 @@ period 313 step 29
 
 period 313 step 30 
   save budget
+
+period 313 step 31 
+  save budget
+  save head
+  print budget
 
 period 314 step 1 
   save budget
@@ -29006,6 +29394,11 @@ period 315 step 29
 period 315 step 30 
   save budget
 
+period 315 step 31 
+  save budget
+  save head
+  print budget
+
 period 316 step 1 
   save budget
 
@@ -29186,6 +29579,9 @@ period 317 step 28
   save budget
   save head
   print budget
+
+period 318 step 1 
+  save budget
 
 period 318 step 2 
   save budget
@@ -29371,6 +29767,9 @@ period 319 step 30
   save head
   print budget
 
+period 320 step 1 
+  save budget
+
 period 320 step 2 
   save budget
 
@@ -29554,6 +29953,9 @@ period 321 step 30
   save budget
   save head
   print budget
+
+period 322 step 1 
+  save budget
 
 period 322 step 2 
   save budget
@@ -29924,6 +30326,11 @@ period 325 step 29
 period 325 step 30 
   save budget
 
+period 325 step 31 
+  save budget
+  save head
+  print budget
+
 period 326 step 1 
   save budget
 
@@ -30106,6 +30513,11 @@ period 327 step 29
 period 327 step 30 
   save budget
 
+period 327 step 31 
+  save budget
+  save head
+  print budget
+
 period 328 step 1 
   save budget
 
@@ -30283,6 +30695,9 @@ period 329 step 27
   save budget
 
 period 329 step 28 
+  save budget
+
+period 329 step 29 
   save budget
   save head
   print budget
@@ -30660,6 +31075,9 @@ period 333 step 30
   save budget
   save head
   print budget
+
+period 334 step 1 
+  save budget
 
 period 334 step 2 
   save budget
@@ -31312,6 +31730,11 @@ period 340 step 29
 period 340 step 30 
   save budget
 
+period 340 step 31 
+  save budget
+  save head
+  print budget
+
 period 341 step 1 
   save budget
 
@@ -31867,6 +32290,9 @@ period 346 step 31
   save head
   print budget
 
+period 347 step 1 
+  save budget
+
 period 347 step 2 
   save budget
 
@@ -32050,6 +32476,9 @@ period 348 step 30
   save budget
   save head
   print budget
+
+period 349 step 1 
+  save budget
 
 period 349 step 2 
   save budget
@@ -32420,6 +32849,11 @@ period 352 step 29
 period 352 step 30 
   save budget
 
+period 352 step 31 
+  save budget
+  save head
+  print budget
+
 period 353 step 1 
   save budget
 
@@ -32503,11 +32937,11 @@ period 353 step 27
 
 period 353 step 28 
   save budget
-
-period 353 step 29 
-  save budget
   save head
   print budget
+
+period 354 step 1 
+  save budget
 
 period 354 step 2 
   save budget
@@ -32692,6 +33126,9 @@ period 355 step 30
   save budget
   save head
   print budget
+
+period 356 step 1 
+  save budget
 
 period 356 step 2 
   save budget
@@ -33062,6 +33499,11 @@ period 359 step 29
 period 359 step 30 
   save budget
 
+period 359 step 31 
+  save budget
+  save head
+  print budget
+
 period 360 step 1 
   save budget
 
@@ -33243,6 +33685,11 @@ period 361 step 29
 
 period 361 step 30 
   save budget
+
+period 361 step 31 
+  save budget
+  save head
+  print budget
 
 period 362 step 1 
   save budget
@@ -33426,6 +33873,11 @@ period 363 step 29
 period 363 step 30 
   save budget
 
+period 363 step 31 
+  save budget
+  save head
+  print budget
+
 period 364 step 1 
   save budget
 
@@ -33606,6 +34058,9 @@ period 365 step 28
   save budget
   save head
   print budget
+
+period 366 step 1 
+  save budget
 
 period 366 step 2 
   save budget
@@ -33791,6 +34246,9 @@ period 367 step 30
   save head
   print budget
 
+period 368 step 1 
+  save budget
+
 period 368 step 2 
   save budget
 
@@ -33974,6 +34432,9 @@ period 369 step 30
   save budget
   save head
   print budget
+
+period 370 step 1 
+  save budget
 
 period 370 step 2 
   save budget
@@ -34344,6 +34805,11 @@ period 373 step 29
 period 373 step 30 
   save budget
 
+period 373 step 31 
+  save budget
+  save head
+  print budget
+
 period 374 step 1 
   save budget
 
@@ -34526,6 +34992,11 @@ period 375 step 29
 period 375 step 30 
   save budget
 
+period 375 step 31 
+  save budget
+  save head
+  print budget
+
 period 376 step 1 
   save budget
 
@@ -34703,6 +35174,9 @@ period 377 step 27
   save budget
 
 period 377 step 28 
+  save budget
+
+period 377 step 29 
   save budget
   save head
   print budget
@@ -35080,6 +35554,9 @@ period 381 step 30
   save budget
   save head
   print budget
+
+period 382 step 1 
+  save budget
 
 period 382 step 2 
   save budget
@@ -35732,6 +36209,11 @@ period 388 step 29
 period 388 step 30 
   save budget
 
+period 388 step 31 
+  save budget
+  save head
+  print budget
+
 period 389 step 1 
   save budget
 
@@ -36287,6 +36769,9 @@ period 394 step 31
   save head
   print budget
 
+period 395 step 1 
+  save budget
+
 period 395 step 2 
   save budget
 
@@ -36470,6 +36955,9 @@ period 396 step 30
   save budget
   save head
   print budget
+
+period 397 step 1 
+  save budget
 
 period 397 step 2 
   save budget
@@ -36840,6 +37328,11 @@ period 400 step 29
 period 400 step 30 
   save budget
 
+period 400 step 31 
+  save budget
+  save head
+  print budget
+
 period 401 step 1 
   save budget
 
@@ -36923,11 +37416,11 @@ period 401 step 27
 
 period 401 step 28 
   save budget
-
-period 401 step 29 
-  save budget
   save head
   print budget
+
+period 402 step 1 
+  save budget
 
 period 402 step 2 
   save budget
@@ -37112,6 +37605,9 @@ period 403 step 30
   save budget
   save head
   print budget
+
+period 404 step 1 
+  save budget
 
 period 404 step 2 
   save budget
@@ -37482,6 +37978,11 @@ period 407 step 29
 period 407 step 30 
   save budget
 
+period 407 step 31 
+  save budget
+  save head
+  print budget
+
 period 408 step 1 
   save budget
 
@@ -37663,6 +38164,11 @@ period 409 step 29
 
 period 409 step 30 
   save budget
+
+period 409 step 31 
+  save budget
+  save head
+  print budget
 
 period 410 step 1 
   save budget
@@ -37846,6 +38352,11 @@ period 411 step 29
 period 411 step 30 
   save budget
 
+period 411 step 31 
+  save budget
+  save head
+  print budget
+
 period 412 step 1 
   save budget
 
@@ -37931,6 +38442,9 @@ period 412 step 28
   save budget
 
 period 412 step 29 
+  save budget
+
+period 412 step 30 
   save budget
 
 period 412 step 31 
@@ -38023,6 +38537,9 @@ period 413 step 28
   save budget
   save head
   print budget
+
+period 414 step 1 
+  save budget
 
 period 414 step 2 
   save budget
@@ -38208,6 +38725,9 @@ period 415 step 30
   save head
   print budget
 
+period 416 step 1 
+  save budget
+
 period 416 step 2 
   save budget
 
@@ -38391,6 +38911,9 @@ period 417 step 30
   save budget
   save head
   print budget
+
+period 418 step 1 
+  save budget
 
 period 418 step 2 
   save budget
@@ -38761,6 +39284,11 @@ period 421 step 29
 period 421 step 30 
   save budget
 
+period 421 step 31 
+  save budget
+  save head
+  print budget
+
 period 422 step 1 
   save budget
 
@@ -38943,6 +39471,11 @@ period 423 step 29
 period 423 step 30 
   save budget
 
+period 423 step 31 
+  save budget
+  save head
+  print budget
+
 period 424 step 1 
   save budget
 
@@ -39120,6 +39653,9 @@ period 425 step 27
   save budget
 
 period 425 step 28 
+  save budget
+
+period 425 step 29 
   save budget
   save head
   print budget
@@ -39311,6 +39847,9 @@ period 427 step 30
   save head
   print budget
 
+period 428 step 1 
+  save budget
+
 period 428 step 2 
   save budget
 
@@ -39494,6 +40033,9 @@ period 429 step 30
   save budget
   save head
   print budget
+
+period 430 step 1 
+  save budget
 
 period 430 step 2 
   save budget
@@ -40146,6 +40688,11 @@ period 436 step 29
 period 436 step 30 
   save budget
 
+period 436 step 31 
+  save budget
+  save head
+  print budget
+
 period 437 step 1 
   save budget
 
@@ -40700,6 +41247,9 @@ period 442 step 31
   save budget
   save head
   print budget
+
+period 443 step 1 
+  save budget
 
 period 443 step 2 
   save budget
@@ -41257,6 +41807,11 @@ period 448 step 29
 period 448 step 30 
   save budget
 
+period 448 step 31 
+  save budget
+  save head
+  print budget
+
 period 449 step 1 
   save budget
 
@@ -41340,11 +41895,11 @@ period 449 step 27
 
 period 449 step 28 
   save budget
-
-period 449 step 29 
-  save budget
   save head
   print budget
+
+period 450 step 1 
+  save budget
 
 period 450 step 2 
   save budget
@@ -41529,6 +42084,9 @@ period 451 step 30
   save budget
   save head
   print budget
+
+period 452 step 1 
+  save budget
 
 period 452 step 2 
   save budget
@@ -41899,6 +42457,11 @@ period 455 step 29
 period 455 step 30 
   save budget
 
+period 455 step 31 
+  save budget
+  save head
+  print budget
+
 period 456 step 1 
   save budget
 
@@ -42080,6 +42643,11 @@ period 457 step 29
 
 period 457 step 30 
   save budget
+
+period 457 step 31 
+  save budget
+  save head
+  print budget
 
 period 458 step 1 
   save budget
@@ -42263,6 +42831,11 @@ period 459 step 29
 period 459 step 30 
   save budget
 
+period 459 step 31 
+  save budget
+  save head
+  print budget
+
 period 460 step 1 
   save budget
 
@@ -42348,6 +42921,9 @@ period 460 step 28
   save budget
 
 period 460 step 29 
+  save budget
+
+period 460 step 30 
   save budget
 
 period 460 step 31 
@@ -42440,6 +43016,9 @@ period 461 step 28
   save budget
   save head
   print budget
+
+period 462 step 1 
+  save budget
 
 period 462 step 2 
   save budget
@@ -42625,6 +43204,9 @@ period 463 step 30
   save head
   print budget
 
+period 464 step 1 
+  save budget
+
 period 464 step 2 
   save budget
 
@@ -42808,6 +43390,9 @@ period 465 step 30
   save budget
   save head
   print budget
+
+period 466 step 1 
+  save budget
 
 period 466 step 2 
   save budget
@@ -43178,6 +43763,11 @@ period 469 step 29
 period 469 step 30 
   save budget
 
+period 469 step 31 
+  save budget
+  save head
+  print budget
+
 period 470 step 1 
   save budget
 
@@ -43360,6 +43950,11 @@ period 471 step 29
 period 471 step 30 
   save budget
 
+period 471 step 31 
+  save budget
+  save head
+  print budget
+
 period 472 step 1 
   save budget
 
@@ -43537,6 +44132,9 @@ period 473 step 27
   save budget
 
 period 473 step 28 
+  save budget
+
+period 473 step 29 
   save budget
   save head
   print budget
@@ -43728,6 +44326,9 @@ period 475 step 30
   save head
   print budget
 
+period 476 step 1 
+  save budget
+
 period 476 step 2 
   save budget
 
@@ -43911,6 +44512,9 @@ period 477 step 30
   save budget
   save head
   print budget
+
+period 478 step 1 
+  save budget
 
 period 478 step 2 
   save budget
@@ -44563,6 +45167,11 @@ period 484 step 29
 period 484 step 30 
   save budget
 
+period 484 step 31 
+  save budget
+  save head
+  print budget
+
 period 485 step 1 
   save budget
 
@@ -45117,6 +45726,9 @@ period 490 step 31
   save budget
   save head
   print budget
+
+period 491 step 1 
+  save budget
 
 period 491 step 2 
   save budget
@@ -45674,6 +46286,11 @@ period 496 step 29
 period 496 step 30 
   save budget
 
+period 496 step 31 
+  save budget
+  save head
+  print budget
+
 period 497 step 1 
   save budget
 
@@ -45757,11 +46374,11 @@ period 497 step 27
 
 period 497 step 28 
   save budget
-
-period 497 step 29 
-  save budget
   save head
   print budget
+
+period 498 step 1 
+  save budget
 
 period 498 step 2 
   save budget
@@ -45946,6 +46563,9 @@ period 499 step 30
   save budget
   save head
   print budget
+
+period 500 step 1 
+  save budget
 
 period 500 step 2 
   save budget
@@ -46316,6 +46936,11 @@ period 503 step 29
 period 503 step 30 
   save budget
 
+period 503 step 31 
+  save budget
+  save head
+  print budget
+
 period 504 step 1 
   save budget
 
@@ -46497,6 +47122,11 @@ period 505 step 29
 
 period 505 step 30 
   save budget
+
+period 505 step 31 
+  save budget
+  save head
+  print budget
 
 period 506 step 1 
   save budget
@@ -46680,6 +47310,11 @@ period 507 step 29
 period 507 step 30 
   save budget
 
+period 507 step 31 
+  save budget
+  save head
+  print budget
+
 period 508 step 1 
   save budget
 
@@ -46765,6 +47400,9 @@ period 508 step 28
   save budget
 
 period 508 step 29 
+  save budget
+
+period 508 step 30 
   save budget
 
 period 508 step 31 
@@ -46857,6 +47495,9 @@ period 509 step 28
   save budget
   save head
   print budget
+
+period 510 step 1 
+  save budget
 
 period 510 step 2 
   save budget
@@ -47042,6 +47683,9 @@ period 511 step 30
   save head
   print budget
 
+period 512 step 1 
+  save budget
+
 period 512 step 2 
   save budget
 
@@ -47226,6 +47870,9 @@ period 513 step 30
   save head
   print budget
 
+period 514 step 1 
+  save budget
+
 period 514 step 2 
   save budget
 
@@ -47407,6 +48054,11 @@ period 515 step 29
 
 period 515 step 30 
   save budget
+
+period 515 step 31 
+  save budget
+  save head
+  print budget
 
 period 516 step 1 
   save budget
@@ -47590,6 +48242,11 @@ period 517 step 29
 period 517 step 30 
   save budget
 
+period 517 step 31 
+  save budget
+  save head
+  print budget
+
 period 518 step 1 
   save budget
 
@@ -47772,6 +48429,11 @@ period 519 step 29
 period 519 step 30 
   save budget
 
+period 519 step 31 
+  save budget
+  save head
+  print budget
+
 period 520 step 1 
   save budget
 
@@ -47949,6 +48611,9 @@ period 521 step 27
   save budget
 
 period 521 step 28 
+  save budget
+
+period 521 step 29 
   save budget
   save head
   print budget
@@ -48140,6 +48805,9 @@ period 523 step 30
   save head
   print budget
 
+period 524 step 1 
+  save budget
+
 period 524 step 2 
   save budget
 
@@ -48323,6 +48991,9 @@ period 525 step 30
   save budget
   save head
   print budget
+
+period 526 step 1 
+  save budget
 
 period 526 step 2 
   save budget
@@ -48879,4 +49550,6444 @@ period 531 step 29
 
 period 531 step 30 
   save budget
+
+period 531 step 31 
+  save budget
+  save head
+  print budget
+
+period 532 step 1 
+  save budget
+
+period 532 step 2 
+  save budget
+
+period 532 step 3 
+  save budget
+
+period 532 step 4 
+  save budget
+
+period 532 step 5 
+  save budget
+
+period 532 step 6 
+  save budget
+
+period 532 step 7 
+  save budget
+
+period 532 step 8 
+  save budget
+
+period 532 step 9 
+  save budget
+
+period 532 step 10 
+  save budget
+
+period 532 step 11 
+  save budget
+
+period 532 step 12 
+  save budget
+
+period 532 step 13 
+  save budget
+
+period 532 step 14 
+  save budget
+
+period 532 step 15 
+  save budget
+
+period 532 step 16 
+  save budget
+
+period 532 step 17 
+  save budget
+
+period 532 step 18 
+  save budget
+
+period 532 step 19 
+  save budget
+
+period 532 step 20 
+  save budget
+
+period 532 step 21 
+  save budget
+
+period 532 step 22 
+  save budget
+
+period 532 step 23 
+  save budget
+
+period 532 step 24 
+  save budget
+
+period 532 step 25 
+  save budget
+
+period 532 step 26 
+  save budget
+
+period 532 step 27 
+  save budget
+
+period 532 step 28 
+  save budget
+
+period 532 step 29 
+  save budget
+
+period 532 step 30 
+  save budget
+
+period 532 step 31 
+  save budget
+  save head
+  print budget
+
+period 533 step 1 
+  save budget
+
+period 533 step 2 
+  save budget
+
+period 533 step 3 
+  save budget
+
+period 533 step 4 
+  save budget
+
+period 533 step 5 
+  save budget
+
+period 533 step 6 
+  save budget
+
+period 533 step 7 
+  save budget
+
+period 533 step 8 
+  save budget
+
+period 533 step 9 
+  save budget
+
+period 533 step 10 
+  save budget
+
+period 533 step 11 
+  save budget
+
+period 533 step 12 
+  save budget
+
+period 533 step 13 
+  save budget
+
+period 533 step 14 
+  save budget
+
+period 533 step 15 
+  save budget
+
+period 533 step 16 
+  save budget
+
+period 533 step 17 
+  save budget
+
+period 533 step 18 
+  save budget
+
+period 533 step 19 
+  save budget
+
+period 533 step 20 
+  save budget
+
+period 533 step 21 
+  save budget
+
+period 533 step 22 
+  save budget
+
+period 533 step 23 
+  save budget
+
+period 533 step 24 
+  save budget
+
+period 533 step 25 
+  save budget
+
+period 533 step 26 
+  save budget
+
+period 533 step 27 
+  save budget
+
+period 533 step 28 
+  save budget
+  save head
+  print budget
+
+period 534 step 1 
+  save budget
+
+period 534 step 2 
+  save budget
+
+period 534 step 3 
+  save budget
+
+period 534 step 4 
+  save budget
+
+period 534 step 5 
+  save budget
+
+period 534 step 6 
+  save budget
+
+period 534 step 7 
+  save budget
+
+period 534 step 8 
+  save budget
+
+period 534 step 9 
+  save budget
+
+period 534 step 10 
+  save budget
+
+period 534 step 11 
+  save budget
+
+period 534 step 12 
+  save budget
+
+period 534 step 13 
+  save budget
+
+period 534 step 14 
+  save budget
+
+period 534 step 15 
+  save budget
+
+period 534 step 16 
+  save budget
+
+period 534 step 17 
+  save budget
+
+period 534 step 18 
+  save budget
+
+period 534 step 19 
+  save budget
+
+period 534 step 20 
+  save budget
+
+period 534 step 21 
+  save budget
+
+period 534 step 22 
+  save budget
+
+period 534 step 23 
+  save budget
+
+period 534 step 24 
+  save budget
+
+period 534 step 25 
+  save budget
+
+period 534 step 26 
+  save budget
+
+period 534 step 27 
+  save budget
+
+period 534 step 28 
+  save budget
+
+period 534 step 29 
+  save budget
+
+period 534 step 30 
+  save budget
+
+period 534 step 31 
+  save budget
+  save head
+  print budget
+
+period 535 step 1 
+  save budget
+
+period 535 step 2 
+  save budget
+
+period 535 step 3 
+  save budget
+
+period 535 step 4 
+  save budget
+
+period 535 step 5 
+  save budget
+
+period 535 step 6 
+  save budget
+
+period 535 step 7 
+  save budget
+
+period 535 step 8 
+  save budget
+
+period 535 step 9 
+  save budget
+
+period 535 step 10 
+  save budget
+
+period 535 step 11 
+  save budget
+
+period 535 step 12 
+  save budget
+
+period 535 step 13 
+  save budget
+
+period 535 step 14 
+  save budget
+
+period 535 step 15 
+  save budget
+
+period 535 step 16 
+  save budget
+
+period 535 step 17 
+  save budget
+
+period 535 step 18 
+  save budget
+
+period 535 step 19 
+  save budget
+
+period 535 step 20 
+  save budget
+
+period 535 step 21 
+  save budget
+
+period 535 step 22 
+  save budget
+
+period 535 step 23 
+  save budget
+
+period 535 step 24 
+  save budget
+
+period 535 step 25 
+  save budget
+
+period 535 step 26 
+  save budget
+
+period 535 step 27 
+  save budget
+
+period 535 step 28 
+  save budget
+
+period 535 step 29 
+  save budget
+
+period 535 step 30 
+  save budget
+  save head
+  print budget
+
+period 536 step 1 
+  save budget
+
+period 536 step 2 
+  save budget
+
+period 536 step 3 
+  save budget
+
+period 536 step 4 
+  save budget
+
+period 536 step 5 
+  save budget
+
+period 536 step 6 
+  save budget
+
+period 536 step 7 
+  save budget
+
+period 536 step 8 
+  save budget
+
+period 536 step 9 
+  save budget
+
+period 536 step 10 
+  save budget
+
+period 536 step 11 
+  save budget
+
+period 536 step 12 
+  save budget
+
+period 536 step 13 
+  save budget
+
+period 536 step 14 
+  save budget
+
+period 536 step 15 
+  save budget
+
+period 536 step 16 
+  save budget
+
+period 536 step 17 
+  save budget
+
+period 536 step 18 
+  save budget
+
+period 536 step 19 
+  save budget
+
+period 536 step 20 
+  save budget
+
+period 536 step 21 
+  save budget
+
+period 536 step 22 
+  save budget
+
+period 536 step 23 
+  save budget
+
+period 536 step 24 
+  save budget
+
+period 536 step 25 
+  save budget
+
+period 536 step 26 
+  save budget
+
+period 536 step 27 
+  save budget
+
+period 536 step 28 
+  save budget
+
+period 536 step 29 
+  save budget
+
+period 536 step 30 
+  save budget
+
+period 536 step 31 
+  save budget
+  save head
+  print budget
+
+period 537 step 1 
+  save budget
+
+period 537 step 2 
+  save budget
+
+period 537 step 3 
+  save budget
+
+period 537 step 4 
+  save budget
+
+period 537 step 5 
+  save budget
+
+period 537 step 6 
+  save budget
+
+period 537 step 7 
+  save budget
+
+period 537 step 8 
+  save budget
+
+period 537 step 9 
+  save budget
+
+period 537 step 10 
+  save budget
+
+period 537 step 11 
+  save budget
+
+period 537 step 12 
+  save budget
+
+period 537 step 13 
+  save budget
+
+period 537 step 14 
+  save budget
+
+period 537 step 15 
+  save budget
+
+period 537 step 16 
+  save budget
+
+period 537 step 17 
+  save budget
+
+period 537 step 18 
+  save budget
+
+period 537 step 19 
+  save budget
+
+period 537 step 20 
+  save budget
+
+period 537 step 21 
+  save budget
+
+period 537 step 22 
+  save budget
+
+period 537 step 23 
+  save budget
+
+period 537 step 24 
+  save budget
+
+period 537 step 25 
+  save budget
+
+period 537 step 26 
+  save budget
+
+period 537 step 27 
+  save budget
+
+period 537 step 28 
+  save budget
+
+period 537 step 29 
+  save budget
+
+period 537 step 30 
+  save budget
+  save head
+  print budget
+
+period 538 step 1 
+  save budget
+
+period 538 step 2 
+  save budget
+
+period 538 step 3 
+  save budget
+
+period 538 step 4 
+  save budget
+
+period 538 step 5 
+  save budget
+
+period 538 step 6 
+  save budget
+
+period 538 step 7 
+  save budget
+
+period 538 step 8 
+  save budget
+
+period 538 step 9 
+  save budget
+
+period 538 step 10 
+  save budget
+
+period 538 step 11 
+  save budget
+
+period 538 step 12 
+  save budget
+
+period 538 step 13 
+  save budget
+
+period 538 step 14 
+  save budget
+
+period 538 step 15 
+  save budget
+
+period 538 step 16 
+  save budget
+
+period 538 step 17 
+  save budget
+
+period 538 step 18 
+  save budget
+
+period 538 step 19 
+  save budget
+
+period 538 step 20 
+  save budget
+
+period 538 step 21 
+  save budget
+
+period 538 step 22 
+  save budget
+
+period 538 step 23 
+  save budget
+
+period 538 step 24 
+  save budget
+
+period 538 step 25 
+  save budget
+
+period 538 step 26 
+  save budget
+
+period 538 step 27 
+  save budget
+
+period 538 step 28 
+  save budget
+
+period 538 step 29 
+  save budget
+
+period 538 step 30 
+  save budget
+
+period 538 step 31 
+  save budget
+  save head
+  print budget
+
+period 539 step 1 
+  save budget
+
+period 539 step 2 
+  save budget
+
+period 539 step 3 
+  save budget
+
+period 539 step 4 
+  save budget
+
+period 539 step 5 
+  save budget
+
+period 539 step 6 
+  save budget
+
+period 539 step 7 
+  save budget
+
+period 539 step 8 
+  save budget
+
+period 539 step 9 
+  save budget
+
+period 539 step 10 
+  save budget
+
+period 539 step 11 
+  save budget
+
+period 539 step 12 
+  save budget
+
+period 539 step 13 
+  save budget
+
+period 539 step 14 
+  save budget
+
+period 539 step 15 
+  save budget
+
+period 539 step 16 
+  save budget
+
+period 539 step 17 
+  save budget
+
+period 539 step 18 
+  save budget
+
+period 539 step 19 
+  save budget
+
+period 539 step 20 
+  save budget
+
+period 539 step 21 
+  save budget
+
+period 539 step 22 
+  save budget
+
+period 539 step 23 
+  save budget
+
+period 539 step 24 
+  save budget
+
+period 539 step 25 
+  save budget
+
+period 539 step 26 
+  save budget
+
+period 539 step 27 
+  save budget
+
+period 539 step 28 
+  save budget
+
+period 539 step 29 
+  save budget
+
+period 539 step 30 
+  save budget
+
+period 539 step 31 
+  save budget
+  save head
+  print budget
+
+period 540 step 1 
+  save budget
+
+period 540 step 2 
+  save budget
+
+period 540 step 3 
+  save budget
+
+period 540 step 4 
+  save budget
+
+period 540 step 5 
+  save budget
+
+period 540 step 6 
+  save budget
+
+period 540 step 7 
+  save budget
+
+period 540 step 8 
+  save budget
+
+period 540 step 9 
+  save budget
+
+period 540 step 10 
+  save budget
+
+period 540 step 11 
+  save budget
+
+period 540 step 12 
+  save budget
+
+period 540 step 13 
+  save budget
+
+period 540 step 14 
+  save budget
+
+period 540 step 15 
+  save budget
+
+period 540 step 16 
+  save budget
+
+period 540 step 17 
+  save budget
+
+period 540 step 18 
+  save budget
+
+period 540 step 19 
+  save budget
+
+period 540 step 20 
+  save budget
+
+period 540 step 21 
+  save budget
+
+period 540 step 22 
+  save budget
+
+period 540 step 23 
+  save budget
+
+period 540 step 24 
+  save budget
+
+period 540 step 25 
+  save budget
+
+period 540 step 26 
+  save budget
+
+period 540 step 27 
+  save budget
+
+period 540 step 28 
+  save budget
+
+period 540 step 29 
+  save budget
+
+period 540 step 30 
+  save budget
+  save head
+  print budget
+
+period 541 step 1 
+  save budget
+
+period 541 step 2 
+  save budget
+
+period 541 step 3 
+  save budget
+
+period 541 step 4 
+  save budget
+
+period 541 step 5 
+  save budget
+
+period 541 step 6 
+  save budget
+
+period 541 step 7 
+  save budget
+
+period 541 step 8 
+  save budget
+
+period 541 step 9 
+  save budget
+
+period 541 step 10 
+  save budget
+
+period 541 step 11 
+  save budget
+
+period 541 step 12 
+  save budget
+
+period 541 step 13 
+  save budget
+
+period 541 step 14 
+  save budget
+
+period 541 step 15 
+  save budget
+
+period 541 step 16 
+  save budget
+
+period 541 step 17 
+  save budget
+
+period 541 step 18 
+  save budget
+
+period 541 step 19 
+  save budget
+
+period 541 step 20 
+  save budget
+
+period 541 step 21 
+  save budget
+
+period 541 step 22 
+  save budget
+
+period 541 step 23 
+  save budget
+
+period 541 step 24 
+  save budget
+
+period 541 step 25 
+  save budget
+
+period 541 step 26 
+  save budget
+
+period 541 step 27 
+  save budget
+
+period 541 step 28 
+  save budget
+
+period 541 step 29 
+  save budget
+
+period 541 step 30 
+  save budget
+
+period 541 step 31 
+  save budget
+  save head
+  print budget
+
+period 542 step 1 
+  save budget
+
+period 542 step 2 
+  save budget
+
+period 542 step 3 
+  save budget
+
+period 542 step 4 
+  save budget
+
+period 542 step 5 
+  save budget
+
+period 542 step 6 
+  save budget
+
+period 542 step 7 
+  save budget
+
+period 542 step 8 
+  save budget
+
+period 542 step 9 
+  save budget
+
+period 542 step 10 
+  save budget
+
+period 542 step 11 
+  save budget
+
+period 542 step 12 
+  save budget
+
+period 542 step 13 
+  save budget
+
+period 542 step 14 
+  save budget
+
+period 542 step 15 
+  save budget
+
+period 542 step 16 
+  save budget
+
+period 542 step 17 
+  save budget
+
+period 542 step 18 
+  save budget
+
+period 542 step 19 
+  save budget
+
+period 542 step 20 
+  save budget
+
+period 542 step 21 
+  save budget
+
+period 542 step 22 
+  save budget
+
+period 542 step 23 
+  save budget
+
+period 542 step 24 
+  save budget
+
+period 542 step 25 
+  save budget
+
+period 542 step 26 
+  save budget
+
+period 542 step 27 
+  save budget
+
+period 542 step 28 
+  save budget
+
+period 542 step 29 
+  save budget
+
+period 542 step 30 
+  save budget
+  save head
+  print budget
+
+period 543 step 1 
+  save budget
+
+period 543 step 2 
+  save budget
+
+period 543 step 3 
+  save budget
+
+period 543 step 4 
+  save budget
+
+period 543 step 5 
+  save budget
+
+period 543 step 6 
+  save budget
+
+period 543 step 7 
+  save budget
+
+period 543 step 8 
+  save budget
+
+period 543 step 9 
+  save budget
+
+period 543 step 10 
+  save budget
+
+period 543 step 11 
+  save budget
+
+period 543 step 12 
+  save budget
+
+period 543 step 13 
+  save budget
+
+period 543 step 14 
+  save budget
+
+period 543 step 15 
+  save budget
+
+period 543 step 16 
+  save budget
+
+period 543 step 17 
+  save budget
+
+period 543 step 18 
+  save budget
+
+period 543 step 19 
+  save budget
+
+period 543 step 20 
+  save budget
+
+period 543 step 21 
+  save budget
+
+period 543 step 22 
+  save budget
+
+period 543 step 23 
+  save budget
+
+period 543 step 24 
+  save budget
+
+period 543 step 25 
+  save budget
+
+period 543 step 26 
+  save budget
+
+period 543 step 27 
+  save budget
+
+period 543 step 28 
+  save budget
+
+period 543 step 29 
+  save budget
+
+period 543 step 30 
+  save budget
+
+period 543 step 31 
+  save budget
+  save head
+  print budget
+
+period 544 step 1 
+  save budget
+
+period 544 step 2 
+  save budget
+
+period 544 step 3 
+  save budget
+
+period 544 step 4 
+  save budget
+
+period 544 step 5 
+  save budget
+
+period 544 step 6 
+  save budget
+
+period 544 step 7 
+  save budget
+
+period 544 step 8 
+  save budget
+
+period 544 step 9 
+  save budget
+
+period 544 step 10 
+  save budget
+
+period 544 step 11 
+  save budget
+
+period 544 step 12 
+  save budget
+
+period 544 step 13 
+  save budget
+
+period 544 step 14 
+  save budget
+
+period 544 step 15 
+  save budget
+
+period 544 step 16 
+  save budget
+
+period 544 step 17 
+  save budget
+
+period 544 step 18 
+  save budget
+
+period 544 step 19 
+  save budget
+
+period 544 step 20 
+  save budget
+
+period 544 step 21 
+  save budget
+
+period 544 step 22 
+  save budget
+
+period 544 step 23 
+  save budget
+
+period 544 step 24 
+  save budget
+
+period 544 step 25 
+  save budget
+
+period 544 step 26 
+  save budget
+
+period 544 step 27 
+  save budget
+
+period 544 step 28 
+  save budget
+
+period 544 step 29 
+  save budget
+
+period 544 step 30 
+  save budget
+
+period 544 step 31 
+  save budget
+  save head
+  print budget
+
+period 545 step 1 
+  save budget
+
+period 545 step 2 
+  save budget
+
+period 545 step 3 
+  save budget
+
+period 545 step 4 
+  save budget
+
+period 545 step 5 
+  save budget
+
+period 545 step 6 
+  save budget
+
+period 545 step 7 
+  save budget
+
+period 545 step 8 
+  save budget
+
+period 545 step 9 
+  save budget
+
+period 545 step 10 
+  save budget
+
+period 545 step 11 
+  save budget
+
+period 545 step 12 
+  save budget
+
+period 545 step 13 
+  save budget
+
+period 545 step 14 
+  save budget
+
+period 545 step 15 
+  save budget
+
+period 545 step 16 
+  save budget
+
+period 545 step 17 
+  save budget
+
+period 545 step 18 
+  save budget
+
+period 545 step 19 
+  save budget
+
+period 545 step 20 
+  save budget
+
+period 545 step 21 
+  save budget
+
+period 545 step 22 
+  save budget
+
+period 545 step 23 
+  save budget
+
+period 545 step 24 
+  save budget
+
+period 545 step 25 
+  save budget
+
+period 545 step 26 
+  save budget
+
+period 545 step 27 
+  save budget
+
+period 545 step 28 
+  save budget
+  save head
+  print budget
+
+period 546 step 1 
+  save budget
+
+period 546 step 2 
+  save budget
+
+period 546 step 3 
+  save budget
+
+period 546 step 4 
+  save budget
+
+period 546 step 5 
+  save budget
+
+period 546 step 6 
+  save budget
+
+period 546 step 7 
+  save budget
+
+period 546 step 8 
+  save budget
+
+period 546 step 9 
+  save budget
+
+period 546 step 10 
+  save budget
+
+period 546 step 11 
+  save budget
+
+period 546 step 12 
+  save budget
+
+period 546 step 13 
+  save budget
+
+period 546 step 14 
+  save budget
+
+period 546 step 15 
+  save budget
+
+period 546 step 16 
+  save budget
+
+period 546 step 17 
+  save budget
+
+period 546 step 18 
+  save budget
+
+period 546 step 19 
+  save budget
+
+period 546 step 20 
+  save budget
+
+period 546 step 21 
+  save budget
+
+period 546 step 22 
+  save budget
+
+period 546 step 23 
+  save budget
+
+period 546 step 24 
+  save budget
+
+period 546 step 25 
+  save budget
+
+period 546 step 26 
+  save budget
+
+period 546 step 27 
+  save budget
+
+period 546 step 28 
+  save budget
+
+period 546 step 29 
+  save budget
+
+period 546 step 30 
+  save budget
+
+period 546 step 31 
+  save budget
+  save head
+  print budget
+
+period 547 step 1 
+  save budget
+
+period 547 step 2 
+  save budget
+
+period 547 step 3 
+  save budget
+
+period 547 step 4 
+  save budget
+
+period 547 step 5 
+  save budget
+
+period 547 step 6 
+  save budget
+
+period 547 step 7 
+  save budget
+
+period 547 step 8 
+  save budget
+
+period 547 step 9 
+  save budget
+
+period 547 step 10 
+  save budget
+
+period 547 step 11 
+  save budget
+
+period 547 step 12 
+  save budget
+
+period 547 step 13 
+  save budget
+
+period 547 step 14 
+  save budget
+
+period 547 step 15 
+  save budget
+
+period 547 step 16 
+  save budget
+
+period 547 step 17 
+  save budget
+
+period 547 step 18 
+  save budget
+
+period 547 step 19 
+  save budget
+
+period 547 step 20 
+  save budget
+
+period 547 step 21 
+  save budget
+
+period 547 step 22 
+  save budget
+
+period 547 step 23 
+  save budget
+
+period 547 step 24 
+  save budget
+
+period 547 step 25 
+  save budget
+
+period 547 step 26 
+  save budget
+
+period 547 step 27 
+  save budget
+
+period 547 step 28 
+  save budget
+
+period 547 step 29 
+  save budget
+
+period 547 step 30 
+  save budget
+  save head
+  print budget
+
+period 548 step 1 
+  save budget
+
+period 548 step 2 
+  save budget
+
+period 548 step 3 
+  save budget
+
+period 548 step 4 
+  save budget
+
+period 548 step 5 
+  save budget
+
+period 548 step 6 
+  save budget
+
+period 548 step 7 
+  save budget
+
+period 548 step 8 
+  save budget
+
+period 548 step 9 
+  save budget
+
+period 548 step 10 
+  save budget
+
+period 548 step 11 
+  save budget
+
+period 548 step 12 
+  save budget
+
+period 548 step 13 
+  save budget
+
+period 548 step 14 
+  save budget
+
+period 548 step 15 
+  save budget
+
+period 548 step 16 
+  save budget
+
+period 548 step 17 
+  save budget
+
+period 548 step 18 
+  save budget
+
+period 548 step 19 
+  save budget
+
+period 548 step 20 
+  save budget
+
+period 548 step 21 
+  save budget
+
+period 548 step 22 
+  save budget
+
+period 548 step 23 
+  save budget
+
+period 548 step 24 
+  save budget
+
+period 548 step 25 
+  save budget
+
+period 548 step 26 
+  save budget
+
+period 548 step 27 
+  save budget
+
+period 548 step 28 
+  save budget
+
+period 548 step 29 
+  save budget
+
+period 548 step 30 
+  save budget
+
+period 548 step 31 
+  save budget
+  save head
+  print budget
+
+period 549 step 1 
+  save budget
+
+period 549 step 2 
+  save budget
+
+period 549 step 3 
+  save budget
+
+period 549 step 4 
+  save budget
+
+period 549 step 5 
+  save budget
+
+period 549 step 6 
+  save budget
+
+period 549 step 7 
+  save budget
+
+period 549 step 8 
+  save budget
+
+period 549 step 9 
+  save budget
+
+period 549 step 10 
+  save budget
+
+period 549 step 11 
+  save budget
+
+period 549 step 12 
+  save budget
+
+period 549 step 13 
+  save budget
+
+period 549 step 14 
+  save budget
+
+period 549 step 15 
+  save budget
+
+period 549 step 16 
+  save budget
+
+period 549 step 17 
+  save budget
+
+period 549 step 18 
+  save budget
+
+period 549 step 19 
+  save budget
+
+period 549 step 20 
+  save budget
+
+period 549 step 21 
+  save budget
+
+period 549 step 22 
+  save budget
+
+period 549 step 23 
+  save budget
+
+period 549 step 24 
+  save budget
+
+period 549 step 25 
+  save budget
+
+period 549 step 26 
+  save budget
+
+period 549 step 27 
+  save budget
+
+period 549 step 28 
+  save budget
+
+period 549 step 29 
+  save budget
+
+period 549 step 30 
+  save budget
+  save head
+  print budget
+
+period 550 step 1 
+  save budget
+
+period 550 step 2 
+  save budget
+
+period 550 step 3 
+  save budget
+
+period 550 step 4 
+  save budget
+
+period 550 step 5 
+  save budget
+
+period 550 step 6 
+  save budget
+
+period 550 step 7 
+  save budget
+
+period 550 step 8 
+  save budget
+
+period 550 step 9 
+  save budget
+
+period 550 step 10 
+  save budget
+
+period 550 step 11 
+  save budget
+
+period 550 step 12 
+  save budget
+
+period 550 step 13 
+  save budget
+
+period 550 step 14 
+  save budget
+
+period 550 step 15 
+  save budget
+
+period 550 step 16 
+  save budget
+
+period 550 step 17 
+  save budget
+
+period 550 step 18 
+  save budget
+
+period 550 step 19 
+  save budget
+
+period 550 step 20 
+  save budget
+
+period 550 step 21 
+  save budget
+
+period 550 step 22 
+  save budget
+
+period 550 step 23 
+  save budget
+
+period 550 step 24 
+  save budget
+
+period 550 step 25 
+  save budget
+
+period 550 step 26 
+  save budget
+
+period 550 step 27 
+  save budget
+
+period 550 step 28 
+  save budget
+
+period 550 step 29 
+  save budget
+
+period 550 step 30 
+  save budget
+
+period 550 step 31 
+  save budget
+  save head
+  print budget
+
+period 551 step 1 
+  save budget
+
+period 551 step 2 
+  save budget
+
+period 551 step 3 
+  save budget
+
+period 551 step 4 
+  save budget
+
+period 551 step 5 
+  save budget
+
+period 551 step 6 
+  save budget
+
+period 551 step 7 
+  save budget
+
+period 551 step 8 
+  save budget
+
+period 551 step 9 
+  save budget
+
+period 551 step 10 
+  save budget
+
+period 551 step 11 
+  save budget
+
+period 551 step 12 
+  save budget
+
+period 551 step 13 
+  save budget
+
+period 551 step 14 
+  save budget
+
+period 551 step 15 
+  save budget
+
+period 551 step 16 
+  save budget
+
+period 551 step 17 
+  save budget
+
+period 551 step 18 
+  save budget
+
+period 551 step 19 
+  save budget
+
+period 551 step 20 
+  save budget
+
+period 551 step 21 
+  save budget
+
+period 551 step 22 
+  save budget
+
+period 551 step 23 
+  save budget
+
+period 551 step 24 
+  save budget
+
+period 551 step 25 
+  save budget
+
+period 551 step 26 
+  save budget
+
+period 551 step 27 
+  save budget
+
+period 551 step 28 
+  save budget
+
+period 551 step 29 
+  save budget
+
+period 551 step 30 
+  save budget
+
+period 551 step 31 
+  save budget
+  save head
+  print budget
+
+period 552 step 1 
+  save budget
+
+period 552 step 2 
+  save budget
+
+period 552 step 3 
+  save budget
+
+period 552 step 4 
+  save budget
+
+period 552 step 5 
+  save budget
+
+period 552 step 6 
+  save budget
+
+period 552 step 7 
+  save budget
+
+period 552 step 8 
+  save budget
+
+period 552 step 9 
+  save budget
+
+period 552 step 10 
+  save budget
+
+period 552 step 11 
+  save budget
+
+period 552 step 12 
+  save budget
+
+period 552 step 13 
+  save budget
+
+period 552 step 14 
+  save budget
+
+period 552 step 15 
+  save budget
+
+period 552 step 16 
+  save budget
+
+period 552 step 17 
+  save budget
+
+period 552 step 18 
+  save budget
+
+period 552 step 19 
+  save budget
+
+period 552 step 20 
+  save budget
+
+period 552 step 21 
+  save budget
+
+period 552 step 22 
+  save budget
+
+period 552 step 23 
+  save budget
+
+period 552 step 24 
+  save budget
+
+period 552 step 25 
+  save budget
+
+period 552 step 26 
+  save budget
+
+period 552 step 27 
+  save budget
+
+period 552 step 28 
+  save budget
+
+period 552 step 29 
+  save budget
+
+period 552 step 30 
+  save budget
+  save head
+  print budget
+
+period 553 step 1 
+  save budget
+
+period 553 step 2 
+  save budget
+
+period 553 step 3 
+  save budget
+
+period 553 step 4 
+  save budget
+
+period 553 step 5 
+  save budget
+
+period 553 step 6 
+  save budget
+
+period 553 step 7 
+  save budget
+
+period 553 step 8 
+  save budget
+
+period 553 step 9 
+  save budget
+
+period 553 step 10 
+  save budget
+
+period 553 step 11 
+  save budget
+
+period 553 step 12 
+  save budget
+
+period 553 step 13 
+  save budget
+
+period 553 step 14 
+  save budget
+
+period 553 step 15 
+  save budget
+
+period 553 step 16 
+  save budget
+
+period 553 step 17 
+  save budget
+
+period 553 step 18 
+  save budget
+
+period 553 step 19 
+  save budget
+
+period 553 step 20 
+  save budget
+
+period 553 step 21 
+  save budget
+
+period 553 step 22 
+  save budget
+
+period 553 step 23 
+  save budget
+
+period 553 step 24 
+  save budget
+
+period 553 step 25 
+  save budget
+
+period 553 step 26 
+  save budget
+
+period 553 step 27 
+  save budget
+
+period 553 step 28 
+  save budget
+
+period 553 step 29 
+  save budget
+
+period 553 step 30 
+  save budget
+
+period 553 step 31 
+  save budget
+  save head
+  print budget
+
+period 554 step 1 
+  save budget
+
+period 554 step 2 
+  save budget
+
+period 554 step 3 
+  save budget
+
+period 554 step 4 
+  save budget
+
+period 554 step 5 
+  save budget
+
+period 554 step 6 
+  save budget
+
+period 554 step 7 
+  save budget
+
+period 554 step 8 
+  save budget
+
+period 554 step 9 
+  save budget
+
+period 554 step 10 
+  save budget
+
+period 554 step 11 
+  save budget
+
+period 554 step 12 
+  save budget
+
+period 554 step 13 
+  save budget
+
+period 554 step 14 
+  save budget
+
+period 554 step 15 
+  save budget
+
+period 554 step 16 
+  save budget
+
+period 554 step 17 
+  save budget
+
+period 554 step 18 
+  save budget
+
+period 554 step 19 
+  save budget
+
+period 554 step 20 
+  save budget
+
+period 554 step 21 
+  save budget
+
+period 554 step 22 
+  save budget
+
+period 554 step 23 
+  save budget
+
+period 554 step 24 
+  save budget
+
+period 554 step 25 
+  save budget
+
+period 554 step 26 
+  save budget
+
+period 554 step 27 
+  save budget
+
+period 554 step 28 
+  save budget
+
+period 554 step 29 
+  save budget
+
+period 554 step 30 
+  save budget
+  save head
+  print budget
+
+period 555 step 1 
+  save budget
+
+period 555 step 2 
+  save budget
+
+period 555 step 3 
+  save budget
+
+period 555 step 4 
+  save budget
+
+period 555 step 5 
+  save budget
+
+period 555 step 6 
+  save budget
+
+period 555 step 7 
+  save budget
+
+period 555 step 8 
+  save budget
+
+period 555 step 9 
+  save budget
+
+period 555 step 10 
+  save budget
+
+period 555 step 11 
+  save budget
+
+period 555 step 12 
+  save budget
+
+period 555 step 13 
+  save budget
+
+period 555 step 14 
+  save budget
+
+period 555 step 15 
+  save budget
+
+period 555 step 16 
+  save budget
+
+period 555 step 17 
+  save budget
+
+period 555 step 18 
+  save budget
+
+period 555 step 19 
+  save budget
+
+period 555 step 20 
+  save budget
+
+period 555 step 21 
+  save budget
+
+period 555 step 22 
+  save budget
+
+period 555 step 23 
+  save budget
+
+period 555 step 24 
+  save budget
+
+period 555 step 25 
+  save budget
+
+period 555 step 26 
+  save budget
+
+period 555 step 27 
+  save budget
+
+period 555 step 28 
+  save budget
+
+period 555 step 29 
+  save budget
+
+period 555 step 30 
+  save budget
+
+period 555 step 31 
+  save budget
+  save head
+  print budget
+
+period 556 step 1 
+  save budget
+
+period 556 step 2 
+  save budget
+
+period 556 step 3 
+  save budget
+
+period 556 step 4 
+  save budget
+
+period 556 step 5 
+  save budget
+
+period 556 step 6 
+  save budget
+
+period 556 step 7 
+  save budget
+
+period 556 step 8 
+  save budget
+
+period 556 step 9 
+  save budget
+
+period 556 step 10 
+  save budget
+
+period 556 step 11 
+  save budget
+
+period 556 step 12 
+  save budget
+
+period 556 step 13 
+  save budget
+
+period 556 step 14 
+  save budget
+
+period 556 step 15 
+  save budget
+
+period 556 step 16 
+  save budget
+
+period 556 step 17 
+  save budget
+
+period 556 step 18 
+  save budget
+
+period 556 step 19 
+  save budget
+
+period 556 step 20 
+  save budget
+
+period 556 step 21 
+  save budget
+
+period 556 step 22 
+  save budget
+
+period 556 step 23 
+  save budget
+
+period 556 step 24 
+  save budget
+
+period 556 step 25 
+  save budget
+
+period 556 step 26 
+  save budget
+
+period 556 step 27 
+  save budget
+
+period 556 step 28 
+  save budget
+
+period 556 step 29 
+  save budget
+
+period 556 step 30 
+  save budget
+
+period 556 step 31 
+  save budget
+  save head
+  print budget
+
+period 557 step 1 
+  save budget
+
+period 557 step 2 
+  save budget
+
+period 557 step 3 
+  save budget
+
+period 557 step 4 
+  save budget
+
+period 557 step 5 
+  save budget
+
+period 557 step 6 
+  save budget
+
+period 557 step 7 
+  save budget
+
+period 557 step 8 
+  save budget
+
+period 557 step 9 
+  save budget
+
+period 557 step 10 
+  save budget
+
+period 557 step 11 
+  save budget
+
+period 557 step 12 
+  save budget
+
+period 557 step 13 
+  save budget
+
+period 557 step 14 
+  save budget
+
+period 557 step 15 
+  save budget
+
+period 557 step 16 
+  save budget
+
+period 557 step 17 
+  save budget
+
+period 557 step 18 
+  save budget
+
+period 557 step 19 
+  save budget
+
+period 557 step 20 
+  save budget
+
+period 557 step 21 
+  save budget
+
+period 557 step 22 
+  save budget
+
+period 557 step 23 
+  save budget
+
+period 557 step 24 
+  save budget
+
+period 557 step 25 
+  save budget
+
+period 557 step 26 
+  save budget
+
+period 557 step 27 
+  save budget
+
+period 557 step 28 
+  save budget
+  save head
+  print budget
+
+period 558 step 1 
+  save budget
+
+period 558 step 2 
+  save budget
+
+period 558 step 3 
+  save budget
+
+period 558 step 4 
+  save budget
+
+period 558 step 5 
+  save budget
+
+period 558 step 6 
+  save budget
+
+period 558 step 7 
+  save budget
+
+period 558 step 8 
+  save budget
+
+period 558 step 9 
+  save budget
+
+period 558 step 10 
+  save budget
+
+period 558 step 11 
+  save budget
+
+period 558 step 12 
+  save budget
+
+period 558 step 13 
+  save budget
+
+period 558 step 14 
+  save budget
+
+period 558 step 15 
+  save budget
+
+period 558 step 16 
+  save budget
+
+period 558 step 17 
+  save budget
+
+period 558 step 18 
+  save budget
+
+period 558 step 19 
+  save budget
+
+period 558 step 20 
+  save budget
+
+period 558 step 21 
+  save budget
+
+period 558 step 22 
+  save budget
+
+period 558 step 23 
+  save budget
+
+period 558 step 24 
+  save budget
+
+period 558 step 25 
+  save budget
+
+period 558 step 26 
+  save budget
+
+period 558 step 27 
+  save budget
+
+period 558 step 28 
+  save budget
+
+period 558 step 29 
+  save budget
+
+period 558 step 30 
+  save budget
+
+period 558 step 31 
+  save budget
+  save head
+  print budget
+
+period 559 step 1 
+  save budget
+
+period 559 step 2 
+  save budget
+
+period 559 step 3 
+  save budget
+
+period 559 step 4 
+  save budget
+
+period 559 step 5 
+  save budget
+
+period 559 step 6 
+  save budget
+
+period 559 step 7 
+  save budget
+
+period 559 step 8 
+  save budget
+
+period 559 step 9 
+  save budget
+
+period 559 step 10 
+  save budget
+
+period 559 step 11 
+  save budget
+
+period 559 step 12 
+  save budget
+
+period 559 step 13 
+  save budget
+
+period 559 step 14 
+  save budget
+
+period 559 step 15 
+  save budget
+
+period 559 step 16 
+  save budget
+
+period 559 step 17 
+  save budget
+
+period 559 step 18 
+  save budget
+
+period 559 step 19 
+  save budget
+
+period 559 step 20 
+  save budget
+
+period 559 step 21 
+  save budget
+
+period 559 step 22 
+  save budget
+
+period 559 step 23 
+  save budget
+
+period 559 step 24 
+  save budget
+
+period 559 step 25 
+  save budget
+
+period 559 step 26 
+  save budget
+
+period 559 step 27 
+  save budget
+
+period 559 step 28 
+  save budget
+
+period 559 step 29 
+  save budget
+
+period 559 step 30 
+  save budget
+  save head
+  print budget
+
+period 560 step 1 
+  save budget
+
+period 560 step 2 
+  save budget
+
+period 560 step 3 
+  save budget
+
+period 560 step 4 
+  save budget
+
+period 560 step 5 
+  save budget
+
+period 560 step 6 
+  save budget
+
+period 560 step 7 
+  save budget
+
+period 560 step 8 
+  save budget
+
+period 560 step 9 
+  save budget
+
+period 560 step 10 
+  save budget
+
+period 560 step 11 
+  save budget
+
+period 560 step 12 
+  save budget
+
+period 560 step 13 
+  save budget
+
+period 560 step 14 
+  save budget
+
+period 560 step 15 
+  save budget
+
+period 560 step 16 
+  save budget
+
+period 560 step 17 
+  save budget
+
+period 560 step 18 
+  save budget
+
+period 560 step 19 
+  save budget
+
+period 560 step 20 
+  save budget
+
+period 560 step 21 
+  save budget
+
+period 560 step 22 
+  save budget
+
+period 560 step 23 
+  save budget
+
+period 560 step 24 
+  save budget
+
+period 560 step 25 
+  save budget
+
+period 560 step 26 
+  save budget
+
+period 560 step 27 
+  save budget
+
+period 560 step 28 
+  save budget
+
+period 560 step 29 
+  save budget
+
+period 560 step 30 
+  save budget
+
+period 560 step 31 
+  save budget
+  save head
+  print budget
+
+period 561 step 1 
+  save budget
+
+period 561 step 2 
+  save budget
+
+period 561 step 3 
+  save budget
+
+period 561 step 4 
+  save budget
+
+period 561 step 5 
+  save budget
+
+period 561 step 6 
+  save budget
+
+period 561 step 7 
+  save budget
+
+period 561 step 8 
+  save budget
+
+period 561 step 9 
+  save budget
+
+period 561 step 10 
+  save budget
+
+period 561 step 11 
+  save budget
+
+period 561 step 12 
+  save budget
+
+period 561 step 13 
+  save budget
+
+period 561 step 14 
+  save budget
+
+period 561 step 15 
+  save budget
+
+period 561 step 16 
+  save budget
+
+period 561 step 17 
+  save budget
+
+period 561 step 18 
+  save budget
+
+period 561 step 19 
+  save budget
+
+period 561 step 20 
+  save budget
+
+period 561 step 21 
+  save budget
+
+period 561 step 22 
+  save budget
+
+period 561 step 23 
+  save budget
+
+period 561 step 24 
+  save budget
+
+period 561 step 25 
+  save budget
+
+period 561 step 26 
+  save budget
+
+period 561 step 27 
+  save budget
+
+period 561 step 28 
+  save budget
+
+period 561 step 29 
+  save budget
+
+period 561 step 30 
+  save budget
+  save head
+  print budget
+
+period 562 step 1 
+  save budget
+
+period 562 step 2 
+  save budget
+
+period 562 step 3 
+  save budget
+
+period 562 step 4 
+  save budget
+
+period 562 step 5 
+  save budget
+
+period 562 step 6 
+  save budget
+
+period 562 step 7 
+  save budget
+
+period 562 step 8 
+  save budget
+
+period 562 step 9 
+  save budget
+
+period 562 step 10 
+  save budget
+
+period 562 step 11 
+  save budget
+
+period 562 step 12 
+  save budget
+
+period 562 step 13 
+  save budget
+
+period 562 step 14 
+  save budget
+
+period 562 step 15 
+  save budget
+
+period 562 step 16 
+  save budget
+
+period 562 step 17 
+  save budget
+
+period 562 step 18 
+  save budget
+
+period 562 step 19 
+  save budget
+
+period 562 step 20 
+  save budget
+
+period 562 step 21 
+  save budget
+
+period 562 step 22 
+  save budget
+
+period 562 step 23 
+  save budget
+
+period 562 step 24 
+  save budget
+
+period 562 step 25 
+  save budget
+
+period 562 step 26 
+  save budget
+
+period 562 step 27 
+  save budget
+
+period 562 step 28 
+  save budget
+
+period 562 step 29 
+  save budget
+
+period 562 step 30 
+  save budget
+
+period 562 step 31 
+  save budget
+  save head
+  print budget
+
+period 563 step 1 
+  save budget
+
+period 563 step 2 
+  save budget
+
+period 563 step 3 
+  save budget
+
+period 563 step 4 
+  save budget
+
+period 563 step 5 
+  save budget
+
+period 563 step 6 
+  save budget
+
+period 563 step 7 
+  save budget
+
+period 563 step 8 
+  save budget
+
+period 563 step 9 
+  save budget
+
+period 563 step 10 
+  save budget
+
+period 563 step 11 
+  save budget
+
+period 563 step 12 
+  save budget
+
+period 563 step 13 
+  save budget
+
+period 563 step 14 
+  save budget
+
+period 563 step 15 
+  save budget
+
+period 563 step 16 
+  save budget
+
+period 563 step 17 
+  save budget
+
+period 563 step 18 
+  save budget
+
+period 563 step 19 
+  save budget
+
+period 563 step 20 
+  save budget
+
+period 563 step 21 
+  save budget
+
+period 563 step 22 
+  save budget
+
+period 563 step 23 
+  save budget
+
+period 563 step 24 
+  save budget
+
+period 563 step 25 
+  save budget
+
+period 563 step 26 
+  save budget
+
+period 563 step 27 
+  save budget
+
+period 563 step 28 
+  save budget
+
+period 563 step 29 
+  save budget
+
+period 563 step 30 
+  save budget
+
+period 563 step 31 
+  save budget
+  save head
+  print budget
+
+period 564 step 1 
+  save budget
+
+period 564 step 2 
+  save budget
+
+period 564 step 3 
+  save budget
+
+period 564 step 4 
+  save budget
+
+period 564 step 5 
+  save budget
+
+period 564 step 6 
+  save budget
+
+period 564 step 7 
+  save budget
+
+period 564 step 8 
+  save budget
+
+period 564 step 9 
+  save budget
+
+period 564 step 10 
+  save budget
+
+period 564 step 11 
+  save budget
+
+period 564 step 12 
+  save budget
+
+period 564 step 13 
+  save budget
+
+period 564 step 14 
+  save budget
+
+period 564 step 15 
+  save budget
+
+period 564 step 16 
+  save budget
+
+period 564 step 17 
+  save budget
+
+period 564 step 18 
+  save budget
+
+period 564 step 19 
+  save budget
+
+period 564 step 20 
+  save budget
+
+period 564 step 21 
+  save budget
+
+period 564 step 22 
+  save budget
+
+period 564 step 23 
+  save budget
+
+period 564 step 24 
+  save budget
+
+period 564 step 25 
+  save budget
+
+period 564 step 26 
+  save budget
+
+period 564 step 27 
+  save budget
+
+period 564 step 28 
+  save budget
+
+period 564 step 29 
+  save budget
+
+period 564 step 30 
+  save budget
+  save head
+  print budget
+
+period 565 step 1 
+  save budget
+
+period 565 step 2 
+  save budget
+
+period 565 step 3 
+  save budget
+
+period 565 step 4 
+  save budget
+
+period 565 step 5 
+  save budget
+
+period 565 step 6 
+  save budget
+
+period 565 step 7 
+  save budget
+
+period 565 step 8 
+  save budget
+
+period 565 step 9 
+  save budget
+
+period 565 step 10 
+  save budget
+
+period 565 step 11 
+  save budget
+
+period 565 step 12 
+  save budget
+
+period 565 step 13 
+  save budget
+
+period 565 step 14 
+  save budget
+
+period 565 step 15 
+  save budget
+
+period 565 step 16 
+  save budget
+
+period 565 step 17 
+  save budget
+
+period 565 step 18 
+  save budget
+
+period 565 step 19 
+  save budget
+
+period 565 step 20 
+  save budget
+
+period 565 step 21 
+  save budget
+
+period 565 step 22 
+  save budget
+
+period 565 step 23 
+  save budget
+
+period 565 step 24 
+  save budget
+
+period 565 step 25 
+  save budget
+
+period 565 step 26 
+  save budget
+
+period 565 step 27 
+  save budget
+
+period 565 step 28 
+  save budget
+
+period 565 step 29 
+  save budget
+
+period 565 step 30 
+  save budget
+
+period 565 step 31 
+  save budget
+  save head
+  print budget
+
+period 566 step 1 
+  save budget
+
+period 566 step 2 
+  save budget
+
+period 566 step 3 
+  save budget
+
+period 566 step 4 
+  save budget
+
+period 566 step 5 
+  save budget
+
+period 566 step 6 
+  save budget
+
+period 566 step 7 
+  save budget
+
+period 566 step 8 
+  save budget
+
+period 566 step 9 
+  save budget
+
+period 566 step 10 
+  save budget
+
+period 566 step 11 
+  save budget
+
+period 566 step 12 
+  save budget
+
+period 566 step 13 
+  save budget
+
+period 566 step 14 
+  save budget
+
+period 566 step 15 
+  save budget
+
+period 566 step 16 
+  save budget
+
+period 566 step 17 
+  save budget
+
+period 566 step 18 
+  save budget
+
+period 566 step 19 
+  save budget
+
+period 566 step 20 
+  save budget
+
+period 566 step 21 
+  save budget
+
+period 566 step 22 
+  save budget
+
+period 566 step 23 
+  save budget
+
+period 566 step 24 
+  save budget
+
+period 566 step 25 
+  save budget
+
+period 566 step 26 
+  save budget
+
+period 566 step 27 
+  save budget
+
+period 566 step 28 
+  save budget
+
+period 566 step 29 
+  save budget
+
+period 566 step 30 
+  save budget
+  save head
+  print budget
+
+period 567 step 1 
+  save budget
+
+period 567 step 2 
+  save budget
+
+period 567 step 3 
+  save budget
+
+period 567 step 4 
+  save budget
+
+period 567 step 5 
+  save budget
+
+period 567 step 6 
+  save budget
+
+period 567 step 7 
+  save budget
+
+period 567 step 8 
+  save budget
+
+period 567 step 9 
+  save budget
+
+period 567 step 10 
+  save budget
+
+period 567 step 11 
+  save budget
+
+period 567 step 12 
+  save budget
+
+period 567 step 13 
+  save budget
+
+period 567 step 14 
+  save budget
+
+period 567 step 15 
+  save budget
+
+period 567 step 16 
+  save budget
+
+period 567 step 17 
+  save budget
+
+period 567 step 18 
+  save budget
+
+period 567 step 19 
+  save budget
+
+period 567 step 20 
+  save budget
+
+period 567 step 21 
+  save budget
+
+period 567 step 22 
+  save budget
+
+period 567 step 23 
+  save budget
+
+period 567 step 24 
+  save budget
+
+period 567 step 25 
+  save budget
+
+period 567 step 26 
+  save budget
+
+period 567 step 27 
+  save budget
+
+period 567 step 28 
+  save budget
+
+period 567 step 29 
+  save budget
+
+period 567 step 30 
+  save budget
+
+period 567 step 31 
+  save budget
+  save head
+  print budget
+
+period 568 step 1 
+  save budget
+
+period 568 step 2 
+  save budget
+
+period 568 step 3 
+  save budget
+
+period 568 step 4 
+  save budget
+
+period 568 step 5 
+  save budget
+
+period 568 step 6 
+  save budget
+
+period 568 step 7 
+  save budget
+
+period 568 step 8 
+  save budget
+
+period 568 step 9 
+  save budget
+
+period 568 step 10 
+  save budget
+
+period 568 step 11 
+  save budget
+
+period 568 step 12 
+  save budget
+
+period 568 step 13 
+  save budget
+
+period 568 step 14 
+  save budget
+
+period 568 step 15 
+  save budget
+
+period 568 step 16 
+  save budget
+
+period 568 step 17 
+  save budget
+
+period 568 step 18 
+  save budget
+
+period 568 step 19 
+  save budget
+
+period 568 step 20 
+  save budget
+
+period 568 step 21 
+  save budget
+
+period 568 step 22 
+  save budget
+
+period 568 step 23 
+  save budget
+
+period 568 step 24 
+  save budget
+
+period 568 step 25 
+  save budget
+
+period 568 step 26 
+  save budget
+
+period 568 step 27 
+  save budget
+
+period 568 step 28 
+  save budget
+
+period 568 step 29 
+  save budget
+
+period 568 step 30 
+  save budget
+
+period 568 step 31 
+  save budget
+  save head
+  print budget
+
+period 569 step 1 
+  save budget
+
+period 569 step 2 
+  save budget
+
+period 569 step 3 
+  save budget
+
+period 569 step 4 
+  save budget
+
+period 569 step 5 
+  save budget
+
+period 569 step 6 
+  save budget
+
+period 569 step 7 
+  save budget
+
+period 569 step 8 
+  save budget
+
+period 569 step 9 
+  save budget
+
+period 569 step 10 
+  save budget
+
+period 569 step 11 
+  save budget
+
+period 569 step 12 
+  save budget
+
+period 569 step 13 
+  save budget
+
+period 569 step 14 
+  save budget
+
+period 569 step 15 
+  save budget
+
+period 569 step 16 
+  save budget
+
+period 569 step 17 
+  save budget
+
+period 569 step 18 
+  save budget
+
+period 569 step 19 
+  save budget
+
+period 569 step 20 
+  save budget
+
+period 569 step 21 
+  save budget
+
+period 569 step 22 
+  save budget
+
+period 569 step 23 
+  save budget
+
+period 569 step 24 
+  save budget
+
+period 569 step 25 
+  save budget
+
+period 569 step 26 
+  save budget
+
+period 569 step 27 
+  save budget
+
+period 569 step 28 
+  save budget
+
+period 569 step 29 
+  save budget
+  save head
+  print budget
+
+period 570 step 1 
+  save budget
+
+period 570 step 2 
+  save budget
+
+period 570 step 3 
+  save budget
+
+period 570 step 4 
+  save budget
+
+period 570 step 5 
+  save budget
+
+period 570 step 6 
+  save budget
+
+period 570 step 7 
+  save budget
+
+period 570 step 8 
+  save budget
+
+period 570 step 9 
+  save budget
+
+period 570 step 10 
+  save budget
+
+period 570 step 11 
+  save budget
+
+period 570 step 12 
+  save budget
+
+period 570 step 13 
+  save budget
+
+period 570 step 14 
+  save budget
+
+period 570 step 15 
+  save budget
+
+period 570 step 16 
+  save budget
+
+period 570 step 17 
+  save budget
+
+period 570 step 18 
+  save budget
+
+period 570 step 19 
+  save budget
+
+period 570 step 20 
+  save budget
+
+period 570 step 21 
+  save budget
+
+period 570 step 22 
+  save budget
+
+period 570 step 23 
+  save budget
+
+period 570 step 24 
+  save budget
+
+period 570 step 25 
+  save budget
+
+period 570 step 26 
+  save budget
+
+period 570 step 27 
+  save budget
+
+period 570 step 28 
+  save budget
+
+period 570 step 29 
+  save budget
+
+period 570 step 30 
+  save budget
+
+period 570 step 31 
+  save budget
+  save head
+  print budget
+
+period 571 step 1 
+  save budget
+
+period 571 step 2 
+  save budget
+
+period 571 step 3 
+  save budget
+
+period 571 step 4 
+  save budget
+
+period 571 step 5 
+  save budget
+
+period 571 step 6 
+  save budget
+
+period 571 step 7 
+  save budget
+
+period 571 step 8 
+  save budget
+
+period 571 step 9 
+  save budget
+
+period 571 step 10 
+  save budget
+
+period 571 step 11 
+  save budget
+
+period 571 step 12 
+  save budget
+
+period 571 step 13 
+  save budget
+
+period 571 step 14 
+  save budget
+
+period 571 step 15 
+  save budget
+
+period 571 step 16 
+  save budget
+
+period 571 step 17 
+  save budget
+
+period 571 step 18 
+  save budget
+
+period 571 step 19 
+  save budget
+
+period 571 step 20 
+  save budget
+
+period 571 step 21 
+  save budget
+
+period 571 step 22 
+  save budget
+
+period 571 step 23 
+  save budget
+
+period 571 step 24 
+  save budget
+
+period 571 step 25 
+  save budget
+
+period 571 step 26 
+  save budget
+
+period 571 step 27 
+  save budget
+
+period 571 step 28 
+  save budget
+
+period 571 step 29 
+  save budget
+
+period 571 step 30 
+  save budget
+  save head
+  print budget
+
+period 572 step 1 
+  save budget
+
+period 572 step 2 
+  save budget
+
+period 572 step 3 
+  save budget
+
+period 572 step 4 
+  save budget
+
+period 572 step 5 
+  save budget
+
+period 572 step 6 
+  save budget
+
+period 572 step 7 
+  save budget
+
+period 572 step 8 
+  save budget
+
+period 572 step 9 
+  save budget
+
+period 572 step 10 
+  save budget
+
+period 572 step 11 
+  save budget
+
+period 572 step 12 
+  save budget
+
+period 572 step 13 
+  save budget
+
+period 572 step 14 
+  save budget
+
+period 572 step 15 
+  save budget
+
+period 572 step 16 
+  save budget
+
+period 572 step 17 
+  save budget
+
+period 572 step 18 
+  save budget
+
+period 572 step 19 
+  save budget
+
+period 572 step 20 
+  save budget
+
+period 572 step 21 
+  save budget
+
+period 572 step 22 
+  save budget
+
+period 572 step 23 
+  save budget
+
+period 572 step 24 
+  save budget
+
+period 572 step 25 
+  save budget
+
+period 572 step 26 
+  save budget
+
+period 572 step 27 
+  save budget
+
+period 572 step 28 
+  save budget
+
+period 572 step 29 
+  save budget
+
+period 572 step 30 
+  save budget
+
+period 572 step 31 
+  save budget
+  save head
+  print budget
+
+period 573 step 1 
+  save budget
+
+period 573 step 2 
+  save budget
+
+period 573 step 3 
+  save budget
+
+period 573 step 4 
+  save budget
+
+period 573 step 5 
+  save budget
+
+period 573 step 6 
+  save budget
+
+period 573 step 7 
+  save budget
+
+period 573 step 8 
+  save budget
+
+period 573 step 9 
+  save budget
+
+period 573 step 10 
+  save budget
+
+period 573 step 11 
+  save budget
+
+period 573 step 12 
+  save budget
+
+period 573 step 13 
+  save budget
+
+period 573 step 14 
+  save budget
+
+period 573 step 15 
+  save budget
+
+period 573 step 16 
+  save budget
+
+period 573 step 17 
+  save budget
+
+period 573 step 18 
+  save budget
+
+period 573 step 19 
+  save budget
+
+period 573 step 20 
+  save budget
+
+period 573 step 21 
+  save budget
+
+period 573 step 22 
+  save budget
+
+period 573 step 23 
+  save budget
+
+period 573 step 24 
+  save budget
+
+period 573 step 25 
+  save budget
+
+period 573 step 26 
+  save budget
+
+period 573 step 27 
+  save budget
+
+period 573 step 28 
+  save budget
+
+period 573 step 29 
+  save budget
+
+period 573 step 30 
+  save budget
+  save head
+  print budget
+
+period 574 step 1 
+  save budget
+
+period 574 step 2 
+  save budget
+
+period 574 step 3 
+  save budget
+
+period 574 step 4 
+  save budget
+
+period 574 step 5 
+  save budget
+
+period 574 step 6 
+  save budget
+
+period 574 step 7 
+  save budget
+
+period 574 step 8 
+  save budget
+
+period 574 step 9 
+  save budget
+
+period 574 step 10 
+  save budget
+
+period 574 step 11 
+  save budget
+
+period 574 step 12 
+  save budget
+
+period 574 step 13 
+  save budget
+
+period 574 step 14 
+  save budget
+
+period 574 step 15 
+  save budget
+
+period 574 step 16 
+  save budget
+
+period 574 step 17 
+  save budget
+
+period 574 step 18 
+  save budget
+
+period 574 step 19 
+  save budget
+
+period 574 step 20 
+  save budget
+
+period 574 step 21 
+  save budget
+
+period 574 step 22 
+  save budget
+
+period 574 step 23 
+  save budget
+
+period 574 step 24 
+  save budget
+
+period 574 step 25 
+  save budget
+
+period 574 step 26 
+  save budget
+
+period 574 step 27 
+  save budget
+
+period 574 step 28 
+  save budget
+
+period 574 step 29 
+  save budget
+
+period 574 step 30 
+  save budget
+
+period 574 step 31 
+  save budget
+  save head
+  print budget
+
+period 575 step 1 
+  save budget
+
+period 575 step 2 
+  save budget
+
+period 575 step 3 
+  save budget
+
+period 575 step 4 
+  save budget
+
+period 575 step 5 
+  save budget
+
+period 575 step 6 
+  save budget
+
+period 575 step 7 
+  save budget
+
+period 575 step 8 
+  save budget
+
+period 575 step 9 
+  save budget
+
+period 575 step 10 
+  save budget
+
+period 575 step 11 
+  save budget
+
+period 575 step 12 
+  save budget
+
+period 575 step 13 
+  save budget
+
+period 575 step 14 
+  save budget
+
+period 575 step 15 
+  save budget
+
+period 575 step 16 
+  save budget
+
+period 575 step 17 
+  save budget
+
+period 575 step 18 
+  save budget
+
+period 575 step 19 
+  save budget
+
+period 575 step 20 
+  save budget
+
+period 575 step 21 
+  save budget
+
+period 575 step 22 
+  save budget
+
+period 575 step 23 
+  save budget
+
+period 575 step 24 
+  save budget
+
+period 575 step 25 
+  save budget
+
+period 575 step 26 
+  save budget
+
+period 575 step 27 
+  save budget
+
+period 575 step 28 
+  save budget
+
+period 575 step 29 
+  save budget
+
+period 575 step 30 
+  save budget
+
+period 575 step 31 
+  save budget
+  save head
+  print budget
+
+period 576 step 1 
+  save budget
+
+period 576 step 2 
+  save budget
+
+period 576 step 3 
+  save budget
+
+period 576 step 4 
+  save budget
+
+period 576 step 5 
+  save budget
+
+period 576 step 6 
+  save budget
+
+period 576 step 7 
+  save budget
+
+period 576 step 8 
+  save budget
+
+period 576 step 9 
+  save budget
+
+period 576 step 10 
+  save budget
+
+period 576 step 11 
+  save budget
+
+period 576 step 12 
+  save budget
+
+period 576 step 13 
+  save budget
+
+period 576 step 14 
+  save budget
+
+period 576 step 15 
+  save budget
+
+period 576 step 16 
+  save budget
+
+period 576 step 17 
+  save budget
+
+period 576 step 18 
+  save budget
+
+period 576 step 19 
+  save budget
+
+period 576 step 20 
+  save budget
+
+period 576 step 21 
+  save budget
+
+period 576 step 22 
+  save budget
+
+period 576 step 23 
+  save budget
+
+period 576 step 24 
+  save budget
+
+period 576 step 25 
+  save budget
+
+period 576 step 26 
+  save budget
+
+period 576 step 27 
+  save budget
+
+period 576 step 28 
+  save budget
+
+period 576 step 29 
+  save budget
+
+period 576 step 30 
+  save budget
+  save head
+  print budget
+
+period 577 step 1 
+  save budget
+
+period 577 step 2 
+  save budget
+
+period 577 step 3 
+  save budget
+
+period 577 step 4 
+  save budget
+
+period 577 step 5 
+  save budget
+
+period 577 step 6 
+  save budget
+
+period 577 step 7 
+  save budget
+
+period 577 step 8 
+  save budget
+
+period 577 step 9 
+  save budget
+
+period 577 step 10 
+  save budget
+
+period 577 step 11 
+  save budget
+
+period 577 step 12 
+  save budget
+
+period 577 step 13 
+  save budget
+
+period 577 step 14 
+  save budget
+
+period 577 step 15 
+  save budget
+
+period 577 step 16 
+  save budget
+
+period 577 step 17 
+  save budget
+
+period 577 step 18 
+  save budget
+
+period 577 step 19 
+  save budget
+
+period 577 step 20 
+  save budget
+
+period 577 step 21 
+  save budget
+
+period 577 step 22 
+  save budget
+
+period 577 step 23 
+  save budget
+
+period 577 step 24 
+  save budget
+
+period 577 step 25 
+  save budget
+
+period 577 step 26 
+  save budget
+
+period 577 step 27 
+  save budget
+
+period 577 step 28 
+  save budget
+
+period 577 step 29 
+  save budget
+
+period 577 step 30 
+  save budget
+
+period 577 step 31 
+  save budget
+  save head
+  print budget
+
+period 578 step 1 
+  save budget
+
+period 578 step 2 
+  save budget
+
+period 578 step 3 
+  save budget
+
+period 578 step 4 
+  save budget
+
+period 578 step 5 
+  save budget
+
+period 578 step 6 
+  save budget
+
+period 578 step 7 
+  save budget
+
+period 578 step 8 
+  save budget
+
+period 578 step 9 
+  save budget
+
+period 578 step 10 
+  save budget
+
+period 578 step 11 
+  save budget
+
+period 578 step 12 
+  save budget
+
+period 578 step 13 
+  save budget
+
+period 578 step 14 
+  save budget
+
+period 578 step 15 
+  save budget
+
+period 578 step 16 
+  save budget
+
+period 578 step 17 
+  save budget
+
+period 578 step 18 
+  save budget
+
+period 578 step 19 
+  save budget
+
+period 578 step 20 
+  save budget
+
+period 578 step 21 
+  save budget
+
+period 578 step 22 
+  save budget
+
+period 578 step 23 
+  save budget
+
+period 578 step 24 
+  save budget
+
+period 578 step 25 
+  save budget
+
+period 578 step 26 
+  save budget
+
+period 578 step 27 
+  save budget
+
+period 578 step 28 
+  save budget
+
+period 578 step 29 
+  save budget
+
+period 578 step 30 
+  save budget
+  save head
+  print budget
+
+period 579 step 1 
+  save budget
+
+period 579 step 2 
+  save budget
+
+period 579 step 3 
+  save budget
+
+period 579 step 4 
+  save budget
+
+period 579 step 5 
+  save budget
+
+period 579 step 6 
+  save budget
+
+period 579 step 7 
+  save budget
+
+period 579 step 8 
+  save budget
+
+period 579 step 9 
+  save budget
+
+period 579 step 10 
+  save budget
+
+period 579 step 11 
+  save budget
+
+period 579 step 12 
+  save budget
+
+period 579 step 13 
+  save budget
+
+period 579 step 14 
+  save budget
+
+period 579 step 15 
+  save budget
+
+period 579 step 16 
+  save budget
+
+period 579 step 17 
+  save budget
+
+period 579 step 18 
+  save budget
+
+period 579 step 19 
+  save budget
+
+period 579 step 20 
+  save budget
+
+period 579 step 21 
+  save budget
+
+period 579 step 22 
+  save budget
+
+period 579 step 23 
+  save budget
+
+period 579 step 24 
+  save budget
+
+period 579 step 25 
+  save budget
+
+period 579 step 26 
+  save budget
+
+period 579 step 27 
+  save budget
+
+period 579 step 28 
+  save budget
+
+period 579 step 29 
+  save budget
+
+period 579 step 30 
+  save budget
+
+period 579 step 31 
+  save budget
+  save head
+  print budget
+
+period 580 step 1 
+  save budget
+
+period 580 step 2 
+  save budget
+
+period 580 step 3 
+  save budget
+
+period 580 step 4 
+  save budget
+
+period 580 step 5 
+  save budget
+
+period 580 step 6 
+  save budget
+
+period 580 step 7 
+  save budget
+
+period 580 step 8 
+  save budget
+
+period 580 step 9 
+  save budget
+
+period 580 step 10 
+  save budget
+
+period 580 step 11 
+  save budget
+
+period 580 step 12 
+  save budget
+
+period 580 step 13 
+  save budget
+
+period 580 step 14 
+  save budget
+
+period 580 step 15 
+  save budget
+
+period 580 step 16 
+  save budget
+
+period 580 step 17 
+  save budget
+
+period 580 step 18 
+  save budget
+
+period 580 step 19 
+  save budget
+
+period 580 step 20 
+  save budget
+
+period 580 step 21 
+  save budget
+
+period 580 step 22 
+  save budget
+
+period 580 step 23 
+  save budget
+
+period 580 step 24 
+  save budget
+
+period 580 step 25 
+  save budget
+
+period 580 step 26 
+  save budget
+
+period 580 step 27 
+  save budget
+
+period 580 step 28 
+  save budget
+
+period 580 step 29 
+  save budget
+
+period 580 step 30 
+  save budget
+
+period 580 step 31 
+  save budget
+  save head
+  print budget
+
+period 581 step 1 
+  save budget
+
+period 581 step 2 
+  save budget
+
+period 581 step 3 
+  save budget
+
+period 581 step 4 
+  save budget
+
+period 581 step 5 
+  save budget
+
+period 581 step 6 
+  save budget
+
+period 581 step 7 
+  save budget
+
+period 581 step 8 
+  save budget
+
+period 581 step 9 
+  save budget
+
+period 581 step 10 
+  save budget
+
+period 581 step 11 
+  save budget
+
+period 581 step 12 
+  save budget
+
+period 581 step 13 
+  save budget
+
+period 581 step 14 
+  save budget
+
+period 581 step 15 
+  save budget
+
+period 581 step 16 
+  save budget
+
+period 581 step 17 
+  save budget
+
+period 581 step 18 
+  save budget
+
+period 581 step 19 
+  save budget
+
+period 581 step 20 
+  save budget
+
+period 581 step 21 
+  save budget
+
+period 581 step 22 
+  save budget
+
+period 581 step 23 
+  save budget
+
+period 581 step 24 
+  save budget
+
+period 581 step 25 
+  save budget
+
+period 581 step 26 
+  save budget
+
+period 581 step 27 
+  save budget
+
+period 581 step 28 
+  save budget
+  save head
+  print budget
+
+period 582 step 1 
+  save budget
+
+period 582 step 2 
+  save budget
+
+period 582 step 3 
+  save budget
+
+period 582 step 4 
+  save budget
+
+period 582 step 5 
+  save budget
+
+period 582 step 6 
+  save budget
+
+period 582 step 7 
+  save budget
+
+period 582 step 8 
+  save budget
+
+period 582 step 9 
+  save budget
+
+period 582 step 10 
+  save budget
+
+period 582 step 11 
+  save budget
+
+period 582 step 12 
+  save budget
+
+period 582 step 13 
+  save budget
+
+period 582 step 14 
+  save budget
+
+period 582 step 15 
+  save budget
+
+period 582 step 16 
+  save budget
+
+period 582 step 17 
+  save budget
+
+period 582 step 18 
+  save budget
+
+period 582 step 19 
+  save budget
+
+period 582 step 20 
+  save budget
+
+period 582 step 21 
+  save budget
+
+period 582 step 22 
+  save budget
+
+period 582 step 23 
+  save budget
+
+period 582 step 24 
+  save budget
+
+period 582 step 25 
+  save budget
+
+period 582 step 26 
+  save budget
+
+period 582 step 27 
+  save budget
+
+period 582 step 28 
+  save budget
+
+period 582 step 29 
+  save budget
+
+period 582 step 30 
+  save budget
+
+period 582 step 31 
+  save budget
+  save head
+  print budget
+
+period 583 step 1 
+  save budget
+
+period 583 step 2 
+  save budget
+
+period 583 step 3 
+  save budget
+
+period 583 step 4 
+  save budget
+
+period 583 step 5 
+  save budget
+
+period 583 step 6 
+  save budget
+
+period 583 step 7 
+  save budget
+
+period 583 step 8 
+  save budget
+
+period 583 step 9 
+  save budget
+
+period 583 step 10 
+  save budget
+
+period 583 step 11 
+  save budget
+
+period 583 step 12 
+  save budget
+
+period 583 step 13 
+  save budget
+
+period 583 step 14 
+  save budget
+
+period 583 step 15 
+  save budget
+
+period 583 step 16 
+  save budget
+
+period 583 step 17 
+  save budget
+
+period 583 step 18 
+  save budget
+
+period 583 step 19 
+  save budget
+
+period 583 step 20 
+  save budget
+
+period 583 step 21 
+  save budget
+
+period 583 step 22 
+  save budget
+
+period 583 step 23 
+  save budget
+
+period 583 step 24 
+  save budget
+
+period 583 step 25 
+  save budget
+
+period 583 step 26 
+  save budget
+
+period 583 step 27 
+  save budget
+
+period 583 step 28 
+  save budget
+
+period 583 step 29 
+  save budget
+
+period 583 step 30 
+  save budget
+  save head
+  print budget
+
+period 584 step 1 
+  save budget
+
+period 584 step 2 
+  save budget
+
+period 584 step 3 
+  save budget
+
+period 584 step 4 
+  save budget
+
+period 584 step 5 
+  save budget
+
+period 584 step 6 
+  save budget
+
+period 584 step 7 
+  save budget
+
+period 584 step 8 
+  save budget
+
+period 584 step 9 
+  save budget
+
+period 584 step 10 
+  save budget
+
+period 584 step 11 
+  save budget
+
+period 584 step 12 
+  save budget
+
+period 584 step 13 
+  save budget
+
+period 584 step 14 
+  save budget
+
+period 584 step 15 
+  save budget
+
+period 584 step 16 
+  save budget
+
+period 584 step 17 
+  save budget
+
+period 584 step 18 
+  save budget
+
+period 584 step 19 
+  save budget
+
+period 584 step 20 
+  save budget
+
+period 584 step 21 
+  save budget
+
+period 584 step 22 
+  save budget
+
+period 584 step 23 
+  save budget
+
+period 584 step 24 
+  save budget
+
+period 584 step 25 
+  save budget
+
+period 584 step 26 
+  save budget
+
+period 584 step 27 
+  save budget
+
+period 584 step 28 
+  save budget
+
+period 584 step 29 
+  save budget
+
+period 584 step 30 
+  save budget
+
+period 584 step 31 
+  save budget
+  save head
+  print budget
+
+period 585 step 1 
+  save budget
+
+period 585 step 2 
+  save budget
+
+period 585 step 3 
+  save budget
+
+period 585 step 4 
+  save budget
+
+period 585 step 5 
+  save budget
+
+period 585 step 6 
+  save budget
+
+period 585 step 7 
+  save budget
+
+period 585 step 8 
+  save budget
+
+period 585 step 9 
+  save budget
+
+period 585 step 10 
+  save budget
+
+period 585 step 11 
+  save budget
+
+period 585 step 12 
+  save budget
+
+period 585 step 13 
+  save budget
+
+period 585 step 14 
+  save budget
+
+period 585 step 15 
+  save budget
+
+period 585 step 16 
+  save budget
+
+period 585 step 17 
+  save budget
+
+period 585 step 18 
+  save budget
+
+period 585 step 19 
+  save budget
+
+period 585 step 20 
+  save budget
+
+period 585 step 21 
+  save budget
+
+period 585 step 22 
+  save budget
+
+period 585 step 23 
+  save budget
+
+period 585 step 24 
+  save budget
+
+period 585 step 25 
+  save budget
+
+period 585 step 26 
+  save budget
+
+period 585 step 27 
+  save budget
+
+period 585 step 28 
+  save budget
+
+period 585 step 29 
+  save budget
+
+period 585 step 30 
+  save budget
+  save head
+  print budget
+
+period 586 step 1 
+  save budget
+
+period 586 step 2 
+  save budget
+
+period 586 step 3 
+  save budget
+
+period 586 step 4 
+  save budget
+
+period 586 step 5 
+  save budget
+
+period 586 step 6 
+  save budget
+
+period 586 step 7 
+  save budget
+
+period 586 step 8 
+  save budget
+
+period 586 step 9 
+  save budget
+
+period 586 step 10 
+  save budget
+
+period 586 step 11 
+  save budget
+
+period 586 step 12 
+  save budget
+
+period 586 step 13 
+  save budget
+
+period 586 step 14 
+  save budget
+
+period 586 step 15 
+  save budget
+
+period 586 step 16 
+  save budget
+
+period 586 step 17 
+  save budget
+
+period 586 step 18 
+  save budget
+
+period 586 step 19 
+  save budget
+
+period 586 step 20 
+  save budget
+
+period 586 step 21 
+  save budget
+
+period 586 step 22 
+  save budget
+
+period 586 step 23 
+  save budget
+
+period 586 step 24 
+  save budget
+
+period 586 step 25 
+  save budget
+
+period 586 step 26 
+  save budget
+
+period 586 step 27 
+  save budget
+
+period 586 step 28 
+  save budget
+
+period 586 step 29 
+  save budget
+
+period 586 step 30 
+  save budget
+
+period 586 step 31 
+  save budget
+  save head
+  print budget
+
+period 587 step 1 
+  save budget
+
+period 587 step 2 
+  save budget
+
+period 587 step 3 
+  save budget
+
+period 587 step 4 
+  save budget
+
+period 587 step 5 
+  save budget
+
+period 587 step 6 
+  save budget
+
+period 587 step 7 
+  save budget
+
+period 587 step 8 
+  save budget
+
+period 587 step 9 
+  save budget
+
+period 587 step 10 
+  save budget
+
+period 587 step 11 
+  save budget
+
+period 587 step 12 
+  save budget
+
+period 587 step 13 
+  save budget
+
+period 587 step 14 
+  save budget
+
+period 587 step 15 
+  save budget
+
+period 587 step 16 
+  save budget
+
+period 587 step 17 
+  save budget
+
+period 587 step 18 
+  save budget
+
+period 587 step 19 
+  save budget
+
+period 587 step 20 
+  save budget
+
+period 587 step 21 
+  save budget
+
+period 587 step 22 
+  save budget
+
+period 587 step 23 
+  save budget
+
+period 587 step 24 
+  save budget
+
+period 587 step 25 
+  save budget
+
+period 587 step 26 
+  save budget
+
+period 587 step 27 
+  save budget
+
+period 587 step 28 
+  save budget
+
+period 587 step 29 
+  save budget
+
+period 587 step 30 
+  save budget
+
+period 587 step 31 
+  save budget
+  save head
+  print budget
+
+period 588 step 1 
+  save budget
+
+period 588 step 2 
+  save budget
+
+period 588 step 3 
+  save budget
+
+period 588 step 4 
+  save budget
+
+period 588 step 5 
+  save budget
+
+period 588 step 6 
+  save budget
+
+period 588 step 7 
+  save budget
+
+period 588 step 8 
+  save budget
+
+period 588 step 9 
+  save budget
+
+period 588 step 10 
+  save budget
+
+period 588 step 11 
+  save budget
+
+period 588 step 12 
+  save budget
+
+period 588 step 13 
+  save budget
+
+period 588 step 14 
+  save budget
+
+period 588 step 15 
+  save budget
+
+period 588 step 16 
+  save budget
+
+period 588 step 17 
+  save budget
+
+period 588 step 18 
+  save budget
+
+period 588 step 19 
+  save budget
+
+period 588 step 20 
+  save budget
+
+period 588 step 21 
+  save budget
+
+period 588 step 22 
+  save budget
+
+period 588 step 23 
+  save budget
+
+period 588 step 24 
+  save budget
+
+period 588 step 25 
+  save budget
+
+period 588 step 26 
+  save budget
+
+period 588 step 27 
+  save budget
+
+period 588 step 28 
+  save budget
+
+period 588 step 29 
+  save budget
+
+period 588 step 30 
+  save budget
+  save head
+  print budget
+
+period 589 step 1 
+  save budget
+
+period 589 step 2 
+  save budget
+
+period 589 step 3 
+  save budget
+
+period 589 step 4 
+  save budget
+
+period 589 step 5 
+  save budget
+
+period 589 step 6 
+  save budget
+
+period 589 step 7 
+  save budget
+
+period 589 step 8 
+  save budget
+
+period 589 step 9 
+  save budget
+
+period 589 step 10 
+  save budget
+
+period 589 step 11 
+  save budget
+
+period 589 step 12 
+  save budget
+
+period 589 step 13 
+  save budget
+
+period 589 step 14 
+  save budget
+
+period 589 step 15 
+  save budget
+
+period 589 step 16 
+  save budget
+
+period 589 step 17 
+  save budget
+
+period 589 step 18 
+  save budget
+
+period 589 step 19 
+  save budget
+
+period 589 step 20 
+  save budget
+
+period 589 step 21 
+  save budget
+
+period 589 step 22 
+  save budget
+
+period 589 step 23 
+  save budget
+
+period 589 step 24 
+  save budget
+
+period 589 step 25 
+  save budget
+
+period 589 step 26 
+  save budget
+
+period 589 step 27 
+  save budget
+
+period 589 step 28 
+  save budget
+
+period 589 step 29 
+  save budget
+
+period 589 step 30 
+  save budget
+
+period 589 step 31 
+  save budget
+  save head
+  print budget
+
+period 590 step 1 
+  save budget
+
+period 590 step 2 
+  save budget
+
+period 590 step 3 
+  save budget
+
+period 590 step 4 
+  save budget
+
+period 590 step 5 
+  save budget
+
+period 590 step 6 
+  save budget
+
+period 590 step 7 
+  save budget
+
+period 590 step 8 
+  save budget
+
+period 590 step 9 
+  save budget
+
+period 590 step 10 
+  save budget
+
+period 590 step 11 
+  save budget
+
+period 590 step 12 
+  save budget
+
+period 590 step 13 
+  save budget
+
+period 590 step 14 
+  save budget
+
+period 590 step 15 
+  save budget
+
+period 590 step 16 
+  save budget
+
+period 590 step 17 
+  save budget
+
+period 590 step 18 
+  save budget
+
+period 590 step 19 
+  save budget
+
+period 590 step 20 
+  save budget
+
+period 590 step 21 
+  save budget
+
+period 590 step 22 
+  save budget
+
+period 590 step 23 
+  save budget
+
+period 590 step 24 
+  save budget
+
+period 590 step 25 
+  save budget
+
+period 590 step 26 
+  save budget
+
+period 590 step 27 
+  save budget
+
+period 590 step 28 
+  save budget
+
+period 590 step 29 
+  save budget
+
+period 590 step 30 
+  save budget
+  save head
+  print budget
+
+period 591 step 1 
+  save budget
+
+period 591 step 2 
+  save budget
+
+period 591 step 3 
+  save budget
+
+period 591 step 4 
+  save budget
+
+period 591 step 5 
+  save budget
+
+period 591 step 6 
+  save budget
+
+period 591 step 7 
+  save budget
+
+period 591 step 8 
+  save budget
+
+period 591 step 9 
+  save budget
+
+period 591 step 10 
+  save budget
+
+period 591 step 11 
+  save budget
+
+period 591 step 12 
+  save budget
+
+period 591 step 13 
+  save budget
+
+period 591 step 14 
+  save budget
+
+period 591 step 15 
+  save budget
+
+period 591 step 16 
+  save budget
+
+period 591 step 17 
+  save budget
+
+period 591 step 18 
+  save budget
+
+period 591 step 19 
+  save budget
+
+period 591 step 20 
+  save budget
+
+period 591 step 21 
+  save budget
+
+period 591 step 22 
+  save budget
+
+period 591 step 23 
+  save budget
+
+period 591 step 24 
+  save budget
+
+period 591 step 25 
+  save budget
+
+period 591 step 26 
+  save budget
+
+period 591 step 27 
+  save budget
+
+period 591 step 28 
+  save budget
+
+period 591 step 29 
+  save budget
+
+period 591 step 30 
+  save budget
+
+period 591 step 31 
+  save budget
+  save head
+  print budget
+
+period 592 step 1 
+  save budget
+
+period 592 step 2 
+  save budget
+
+period 592 step 3 
+  save budget
+
+period 592 step 4 
+  save budget
+
+period 592 step 5 
+  save budget
+
+period 592 step 6 
+  save budget
+
+period 592 step 7 
+  save budget
+
+period 592 step 8 
+  save budget
+
+period 592 step 9 
+  save budget
+
+period 592 step 10 
+  save budget
+
+period 592 step 11 
+  save budget
+
+period 592 step 12 
+  save budget
+
+period 592 step 13 
+  save budget
+
+period 592 step 14 
+  save budget
+
+period 592 step 15 
+  save budget
+
+period 592 step 16 
+  save budget
+
+period 592 step 17 
+  save budget
+
+period 592 step 18 
+  save budget
+
+period 592 step 19 
+  save budget
+
+period 592 step 20 
+  save budget
+
+period 592 step 21 
+  save budget
+
+period 592 step 22 
+  save budget
+
+period 592 step 23 
+  save budget
+
+period 592 step 24 
+  save budget
+
+period 592 step 25 
+  save budget
+
+period 592 step 26 
+  save budget
+
+period 592 step 27 
+  save budget
+
+period 592 step 28 
+  save budget
+
+period 592 step 29 
+  save budget
+
+period 592 step 30 
+  save budget
+
+period 592 step 31 
+  save budget
+  save head
+  print budget
+
+period 593 step 1 
+  save budget
+
+period 593 step 2 
+  save budget
+
+period 593 step 3 
+  save budget
+
+period 593 step 4 
+  save budget
+
+period 593 step 5 
+  save budget
+
+period 593 step 6 
+  save budget
+
+period 593 step 7 
+  save budget
+
+period 593 step 8 
+  save budget
+
+period 593 step 9 
+  save budget
+
+period 593 step 10 
+  save budget
+
+period 593 step 11 
+  save budget
+
+period 593 step 12 
+  save budget
+
+period 593 step 13 
+  save budget
+
+period 593 step 14 
+  save budget
+
+period 593 step 15 
+  save budget
+
+period 593 step 16 
+  save budget
+
+period 593 step 17 
+  save budget
+
+period 593 step 18 
+  save budget
+
+period 593 step 19 
+  save budget
+
+period 593 step 20 
+  save budget
+
+period 593 step 21 
+  save budget
+
+period 593 step 22 
+  save budget
+
+period 593 step 23 
+  save budget
+
+period 593 step 24 
+  save budget
+
+period 593 step 25 
+  save budget
+
+period 593 step 26 
+  save budget
+
+period 593 step 27 
+  save budget
+
+period 593 step 28 
+  save budget
+  save head
+  print budget
+
+period 594 step 1 
+  save budget
+
+period 594 step 2 
+  save budget
+
+period 594 step 3 
+  save budget
+
+period 594 step 4 
+  save budget
+
+period 594 step 5 
+  save budget
+
+period 594 step 6 
+  save budget
+
+period 594 step 7 
+  save budget
+
+period 594 step 8 
+  save budget
+
+period 594 step 9 
+  save budget
+
+period 594 step 10 
+  save budget
+
+period 594 step 11 
+  save budget
+
+period 594 step 12 
+  save budget
+
+period 594 step 13 
+  save budget
+
+period 594 step 14 
+  save budget
+
+period 594 step 15 
+  save budget
+
+period 594 step 16 
+  save budget
+
+period 594 step 17 
+  save budget
+
+period 594 step 18 
+  save budget
+
+period 594 step 19 
+  save budget
+
+period 594 step 20 
+  save budget
+
+period 594 step 21 
+  save budget
+
+period 594 step 22 
+  save budget
+
+period 594 step 23 
+  save budget
+
+period 594 step 24 
+  save budget
+
+period 594 step 25 
+  save budget
+
+period 594 step 26 
+  save budget
+
+period 594 step 27 
+  save budget
+
+period 594 step 28 
+  save budget
+
+period 594 step 29 
+  save budget
+
+period 594 step 30 
+  save budget
+
+period 594 step 31 
+  save budget
+  save head
+  print budget
+
+period 595 step 1 
+  save budget
+
+period 595 step 2 
+  save budget
+
+period 595 step 3 
+  save budget
+
+period 595 step 4 
+  save budget
+
+period 595 step 5 
+  save budget
+
+period 595 step 6 
+  save budget
+
+period 595 step 7 
+  save budget
+
+period 595 step 8 
+  save budget
+
+period 595 step 9 
+  save budget
+
+period 595 step 10 
+  save budget
+
+period 595 step 11 
+  save budget
+
+period 595 step 12 
+  save budget
+
+period 595 step 13 
+  save budget
+
+period 595 step 14 
+  save budget
+
+period 595 step 15 
+  save budget
+
+period 595 step 16 
+  save budget
+
+period 595 step 17 
+  save budget
+
+period 595 step 18 
+  save budget
+
+period 595 step 19 
+  save budget
+
+period 595 step 20 
+  save budget
+
+period 595 step 21 
+  save budget
+
+period 595 step 22 
+  save budget
+
+period 595 step 23 
+  save budget
+
+period 595 step 24 
+  save budget
+
+period 595 step 25 
+  save budget
+
+period 595 step 26 
+  save budget
+
+period 595 step 27 
+  save budget
+
+period 595 step 28 
+  save budget
+
+period 595 step 29 
+  save budget
+
+period 595 step 30 
+  save budget
+  save head
+  print budget
+
+period 596 step 1 
+  save budget
+
+period 596 step 2 
+  save budget
+
+period 596 step 3 
+  save budget
+
+period 596 step 4 
+  save budget
+
+period 596 step 5 
+  save budget
+
+period 596 step 6 
+  save budget
+
+period 596 step 7 
+  save budget
+
+period 596 step 8 
+  save budget
+
+period 596 step 9 
+  save budget
+
+period 596 step 10 
+  save budget
+
+period 596 step 11 
+  save budget
+
+period 596 step 12 
+  save budget
+
+period 596 step 13 
+  save budget
+
+period 596 step 14 
+  save budget
+
+period 596 step 15 
+  save budget
+
+period 596 step 16 
+  save budget
+
+period 596 step 17 
+  save budget
+
+period 596 step 18 
+  save budget
+
+period 596 step 19 
+  save budget
+
+period 596 step 20 
+  save budget
+
+period 596 step 21 
+  save budget
+
+period 596 step 22 
+  save budget
+
+period 596 step 23 
+  save budget
+
+period 596 step 24 
+  save budget
+
+period 596 step 25 
+  save budget
+
+period 596 step 26 
+  save budget
+
+period 596 step 27 
+  save budget
+
+period 596 step 28 
+  save budget
+
+period 596 step 29 
+  save budget
+
+period 596 step 30 
+  save budget
+
+period 596 step 31 
+  save budget
+  save head
+  print budget
+
+period 597 step 1 
+  save budget
+
+period 597 step 2 
+  save budget
+
+period 597 step 3 
+  save budget
+
+period 597 step 4 
+  save budget
+
+period 597 step 5 
+  save budget
+
+period 597 step 6 
+  save budget
+
+period 597 step 7 
+  save budget
+
+period 597 step 8 
+  save budget
+
+period 597 step 9 
+  save budget
+
+period 597 step 10 
+  save budget
+
+period 597 step 11 
+  save budget
+
+period 597 step 12 
+  save budget
+
+period 597 step 13 
+  save budget
+
+period 597 step 14 
+  save budget
+
+period 597 step 15 
+  save budget
+
+period 597 step 16 
+  save budget
+
+period 597 step 17 
+  save budget
+
+period 597 step 18 
+  save budget
+
+period 597 step 19 
+  save budget
+
+period 597 step 20 
+  save budget
+
+period 597 step 21 
+  save budget
+
+period 597 step 22 
+  save budget
+
+period 597 step 23 
+  save budget
+
+period 597 step 24 
+  save budget
+
+period 597 step 25 
+  save budget
+
+period 597 step 26 
+  save budget
+
+period 597 step 27 
+  save budget
+
+period 597 step 28 
+  save budget
+
+period 597 step 29 
+  save budget
+
+period 597 step 30 
+  save budget
+  save head
+  print budget
+
+period 598 step 1 
+  save budget
+
+period 598 step 2 
+  save budget
+
+period 598 step 3 
+  save budget
+
+period 598 step 4 
+  save budget
+
+period 598 step 5 
+  save budget
+
+period 598 step 6 
+  save budget
+
+period 598 step 7 
+  save budget
+
+period 598 step 8 
+  save budget
+
+period 598 step 9 
+  save budget
+
+period 598 step 10 
+  save budget
+
+period 598 step 11 
+  save budget
+
+period 598 step 12 
+  save budget
+
+period 598 step 13 
+  save budget
+
+period 598 step 14 
+  save budget
+
+period 598 step 15 
+  save budget
+
+period 598 step 16 
+  save budget
+
+period 598 step 17 
+  save budget
+
+period 598 step 18 
+  save budget
+
+period 598 step 19 
+  save budget
+
+period 598 step 20 
+  save budget
+
+period 598 step 21 
+  save budget
+
+period 598 step 22 
+  save budget
+
+period 598 step 23 
+  save budget
+
+period 598 step 24 
+  save budget
+
+period 598 step 25 
+  save budget
+
+period 598 step 26 
+  save budget
+
+period 598 step 27 
+  save budget
+
+period 598 step 28 
+  save budget
+
+period 598 step 29 
+  save budget
+
+period 598 step 30 
+  save budget
+
+period 598 step 31 
+  save budget
+  save head
+  print budget
+
+period 599 step 1 
+  save budget
+
+period 599 step 2 
+  save budget
+
+period 599 step 3 
+  save budget
+
+period 599 step 4 
+  save budget
+
+period 599 step 5 
+  save budget
+
+period 599 step 6 
+  save budget
+
+period 599 step 7 
+  save budget
+
+period 599 step 8 
+  save budget
+
+period 599 step 9 
+  save budget
+
+period 599 step 10 
+  save budget
+
+period 599 step 11 
+  save budget
+
+period 599 step 12 
+  save budget
+
+period 599 step 13 
+  save budget
+
+period 599 step 14 
+  save budget
+
+period 599 step 15 
+  save budget
+
+period 599 step 16 
+  save budget
+
+period 599 step 17 
+  save budget
+
+period 599 step 18 
+  save budget
+
+period 599 step 19 
+  save budget
+
+period 599 step 20 
+  save budget
+
+period 599 step 21 
+  save budget
+
+period 599 step 22 
+  save budget
+
+period 599 step 23 
+  save budget
+
+period 599 step 24 
+  save budget
+
+period 599 step 25 
+  save budget
+
+period 599 step 26 
+  save budget
+
+period 599 step 27 
+  save budget
+
+period 599 step 28 
+  save budget
+
+period 599 step 29 
+  save budget
+
+period 599 step 30 
+  save budget
+
+period 599 step 31 
+  save budget
+  save head
+  print budget
+
+period 600 step 1 
+  save budget
+
+period 600 step 2 
+  save budget
+
+period 600 step 3 
+  save budget
+
+period 600 step 4 
+  save budget
+
+period 600 step 5 
+  save budget
+
+period 600 step 6 
+  save budget
+
+period 600 step 7 
+  save budget
+
+period 600 step 8 
+  save budget
+
+period 600 step 9 
+  save budget
+
+period 600 step 10 
+  save budget
+
+period 600 step 11 
+  save budget
+
+period 600 step 12 
+  save budget
+
+period 600 step 13 
+  save budget
+
+period 600 step 14 
+  save budget
+
+period 600 step 15 
+  save budget
+
+period 600 step 16 
+  save budget
+
+period 600 step 17 
+  save budget
+
+period 600 step 18 
+  save budget
+
+period 600 step 19 
+  save budget
+
+period 600 step 20 
+  save budget
+
+period 600 step 21 
+  save budget
+
+period 600 step 22 
+  save budget
+
+period 600 step 23 
+  save budget
+
+period 600 step 24 
+  save budget
+
+period 600 step 25 
+  save budget
+
+period 600 step 26 
+  save budget
+
+period 600 step 27 
+  save budget
+
+period 600 step 28 
+  save budget
+
+period 600 step 29 
+  save budget
+
+period 600 step 30 
+  save budget
+  save head
+  print budget
 
