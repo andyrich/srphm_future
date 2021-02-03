@@ -23,7 +23,7 @@ GAGE 	60 	input\gage_GSP_and_v0.gag
 #FHB 	40	input\SRP_mf.fhb
 FHB 	40	input\srp_fut_v2.fhb
 
-AG 61 future_transient.ag
+AG 61 future_transient_V3.ag
 DATA    506    output\well.dat    
 DATA    507    output\wellet.dat    
 DATA    505    output\welletall.dat    
