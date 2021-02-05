@@ -191,7 +191,7 @@ external_transferON_OFF
 external_transfer_file
 1
 4
-reclaimedwater_1990_2018est.dat
+reclaimedwater_future.dat
 ####
 dyn_potet_flag
 1
