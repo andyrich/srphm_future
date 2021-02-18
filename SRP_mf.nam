@@ -17,11 +17,11 @@ SFR		28	input\srp_v0.sfr
 #HOB		51	input\SRPgsf_101211.hob	
 HOB     51  input\SRPHM_Oct1974_Dec2018_112wells_20200619.hob
 #WEL		34	input\SRP_mf.wel
-WEL     34  input\srp_rur_MNI_fut_well.txt
+WEL     34  input\srp_rur_MNI_fut_well_v2.txt
 #GAGE	60	input\SRPgsf_29gages_072413.gag
 GAGE 	60 	input\gage_GSP_and_v0.gag
 #FHB 	40	input\SRP_mf.fhb
-FHB 	40	input\srp_fut_v2.fhb
+FHB 	40	input\srp_fut_v3.fhb
 
 AG 61 future_transient_V3.ag
 DATA    506    output\well.dat    
