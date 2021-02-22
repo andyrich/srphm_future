@@ -15,4 +15,10 @@ SRPW3_56e_GSFL_ani1.out.nreach
 *nsub*
 *base_*
 *.out
+gsflow_sum.wbal
+/nsub/*.csv
+/nsub/*.dat
+
+
+
 
