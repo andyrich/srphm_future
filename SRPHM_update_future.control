@@ -303,7 +303,7 @@ nsubOutBaseFileName
 .\nsub\nsub_
 ####
 nsubOutVar_names
-21
+26
 4
 hru_actet
 intcp_stor
@@ -331,4 +331,3 @@ pref_flow_infil
 cap_infil_tot
 swale_actet
 ssres_stor
-hru_ag_irr
